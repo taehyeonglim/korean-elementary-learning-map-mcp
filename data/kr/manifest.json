@@ -127,6 +127,10 @@
     "workstreams/social.json": {
       "bytes": 623771,
       "sha256": "2025dcc017bfacf710d6911d2f957baaeab2b225863b8acced6fcb5aa0698734"
+    },
+    "standard-texts.json": {
+      "bytes": 155956,
+      "sha256": "8a8535a0d3909fb68bdfe7bc323d5046c198cc0f66448179ce867be15830afa3"
     }
   },
   "sourcePosture": {

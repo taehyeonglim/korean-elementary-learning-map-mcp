@@ -1,0 +1,3727 @@
+{
+ "version": "kr-standard-texts-v1",
+ "generatedAt": "2026-07-28T09:17:36.960Z",
+ "sourceNote": "교육부 공표 공공저작물(NCIC 공개 PDF)에서 추출한 성취기준 본문. 출처는 항목별 sourceId 참조.",
+ "texts": [
+  {
+   "code": "[2건01-01]",
+   "text": "나의 몸을 긍정적으로 지속적인 신체 활동은 인식하고 건강 증진을 위한 신체 활 건강한 생활 습관의 건강한 ∙ 신체 활동에 안전하게 참여하기 동에 안전하게 참여한다. 바탕이고, 건강과 안 과정·기능 몸 ∙ 건강하고 안전한 생활 습관 기르기 전은 행복한 삶의 토",
+   "sourceId": "kr-ncic-2026-1-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2건01-02]",
+   "text": "건강하고 안전한 생활 대가 된다. ∙ 나의 몸에 대한 긍정적 인식 습관을 꾸준히 기른다. 가치·태도 ∙ 지속적인 실천 의지",
+   "sourceId": "kr-ncic-2026-1-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2건02-01]",
+   "text": "제자리 움직임을 파악 ∙ 제자리 움직임 하고 놀이 속에서 다양한 움직임을 ∙ 걷고 달리는 움직임 스스로 탐색한다. 지식·이해 ∙ 뜀뛰는 움직임 ∙ 도구를 다루는 움직임",
+   "sourceId": "kr-ncic-2026-1-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2건02-02]",
+   "text": "걷고 달리는 움직임을 파 악하고 놀이 속에서 적극적으로 시도 한다. 움직임은 성장과 발달 ∙ 다양한 움직임 탐색하기 의 원동력이고, 기본 활기찬 ∙ 놀이 속 움직임 시도하기",
+   "sourceId": "kr-ncic-2026-1-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2건02-03]",
+   "text": "뜀뛰는 움직임을 파악 움직임 기술은 활기찬 과정·기능 움직임 ∙ 상황에 맞는 움직임 수행하기 하고 놀이 속에서 자신 있게 시도한 신체 활동의 기초가 ∙ 다양한 움직임 연결하기 다. 된다.",
+   "sourceId": "kr-ncic-2026-1-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2건02-04]",
+   "text": "도구를 다루는 움직임을 ∙ 자기 주도성 파악하고 놀이 속에서 서로 배려하며 ∙ 적극성 상황에 맞게 수행한다. 가치·태도 ∙ 자신감 ∙ 상호 배려",
+   "sourceId": "kr-ncic-2026-1-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2건02-05]",
+   "text": "함께 어울리며 다양한 ∙ 함께 어울림 움직임을 연결한다. ∙ 움직임 표현 지식·이해",
+   "sourceId": "kr-ncic-2026-1-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2건03-01]",
+   "text": "다양한 움직임을 활용 ∙ 움직임 요소 하여 사물이나 자연의 특징을 살려 즐 생각과 느낌은 움직임 겁게 표현한다. 창의적 을 통해 표현되고, 다 ∙ 다양한 움직임 활용하기 과정·기능 표현 양한 움직임은 창의적 ∙ 생각과 느낌 표현하기",
+   "sourceId": "kr-ncic-2026-1-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2건03-02]",
+   "text": "움직임 요소를 다양하게 표현의 기반이 된다. 변화시키면서 생각과 느낌을 창의적 ∙ 움직임 표현의 즐거움 으로 표현한다. 가치·태도 ∙ 움직임 표현의 창의성 38 건강한 생활 나. 성취기준 (1) 건강한 몸",
+   "sourceId": "kr-ncic-2026-1-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국01-01]",
+   "text": "중요한 내용이나 일이 일어난 순서를 고려하며 듣고 말한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국01-02]",
+   "text": "바르고 고운 말로 서로의 감정을 나누며 듣고 말한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국01-03]",
+   "text": "상대의 말을 집중하여 듣고 말차례를 지키며 대화한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국01-04]",
+   "text": "자신의 경험이나 생각을 바른 자세로 발표한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국01-05]",
+   "text": "듣기와 말하기에 관심과 흥미를 가진다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국02-01]",
+   "text": "글자, 단어, 문장, 짧은 글을 정확하게 소리 내어 읽는다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국02-02]",
+   "text": "의미가 잘 드러나도록 문장과 짧은 글을 알맞게 띄어 읽는다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국02-03]",
+   "text": "글을 읽고 중심 내용을 확인한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국02-04]",
+   "text": "인물의 마음이나 생각을 짐작하고 이를 자신과 비교하며 글을 읽는다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국02-05]",
+   "text": "읽기에 흥미를 가지고 즐겨 읽는 태도를 지닌다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국03-01]",
+   "text": "글자와 단어를 바르게 쓴다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국03-02]",
+   "text": "쓰기에 흥미를 가지며 자신의 생각이나 느낌을 문장으로 표현한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국03-03]",
+   "text": "주변 소재에 대해 소개하는 글을 쓴다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국03-04]",
+   "text": "겪은 일을 표현하는 글을 자유롭게 쓰고, 쓴 글을 함께 읽고 생각이나 느낌을 나눈다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국04-01]",
+   "text": "한글 자모의 이름과 소릿값을 알고 정확하게 발음하고 쓴다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국04-02]",
+   "text": "소리와 표기가 다를 수 있음을 알고 단어를 바르게 읽고 쓴다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국04-03]",
+   "text": "문장과 문장 부호를 알맞게 쓰고 한글에 호기심을 가진다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국05-01]",
+   "text": "말놀이, 낭송 등을 통해 말의 재미와 즐거움을 느낀다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국05-02]",
+   "text": "작품을 듣거나 읽으면서 느끼거나 생각한 점을 말한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국05-03]",
+   "text": "작품 속 인물의 모습, 행동, 마음을 상상하여 시, 노래, 이야기, 그림 등으로 표현한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국05-04]",
+   "text": "시나 노래, 이야기에 흥미를 가진다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국06-01]",
+   "text": "일상의 다양한 매체와 매체 자료에 흥미와 관심을 가진다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2국06-02]",
+   "text": "일상의 경험과 생각을 글과 그림으로 표현한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2바01-01]",
+   "text": "학교 생활 습관과 학습 습관을 형성하여 안전하고 건강하게 생활한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2바01-02]",
+   "text": "나를 이해하고 존중하며 생활한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2바01-03]",
+   "text": "가족이나 주변 사람을 배려하며 관계를 맺는다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2바01-04]",
+   "text": "생태환경에서 더불어 살기 위해 노력한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2바02-01]",
+   "text": "공동체에서 내가 할 수 있는 일을 찾아보고 실천한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2바02-02]",
+   "text": "우리나라의 소중함을 알고 사랑하는 마음을 기른다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2바02-03]",
+   "text": "차이나 다양성을 서로 존중하면서 생활한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2바02-04]",
+   "text": "새로운 활동에 호기심을 갖고 도전한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2바03-01]",
+   "text": "하루의 가치를 느끼며 지금을 소중히 여긴다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2바03-02]",
+   "text": "계절의 변화에 대응하며 생활한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2바03-03]",
+   "text": "여러 인물의 삶을 통해 공동체성을 기른다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2바03-04]",
+   "text": "공동체 속에서 지속가능성을 위한 삶의 방식을 찾아 실천한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2바04-01]",
+   "text": "모두를 위한 생활환경을 만드는 데 참여한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2바04-02]",
+   "text": "다양한 생각이나 의견에 대해 개방적인 태도를 형성한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2바04-03]",
+   "text": "여럿이 하는 활동에 관심을 갖고 자발적으로 협력한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2바04-04]",
+   "text": "지금까지의 생활 습관과 학습 습관을 되돌아본다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2수01-01]",
+   "text": "수의 필요성을 인식하면서 0과 100까지의 수 개념을 이해하고, 수를 세고 읽고 쓸 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 410-411"
+  },
+  {
+   "code": "[2수01-02]",
+   "text": "일, 십, 백, 천의 자릿값과 위치적 기수법을 이해하고, 네 자리 이하의 수를 읽고 쓸 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 412-413"
+  },
+  {
+   "code": "[2수01-03]",
+   "text": "네 자리 이하의 수의 범위에서 수의 계열을 이해하고, 수의 크기를 비교할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 414-414"
+  },
+  {
+   "code": "[2수01-04]",
+   "text": "하나의 수를 두 수로 분해하고 두 수를 하나의 수로 합성하는 활동을 통하여 수 감각을 기른다. 두 자리 수 범위의 덧셈과 뺄셈",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 415-416"
+  },
+  {
+   "code": "[2수01-05]",
+   "text": "덧셈과 뺄셈이 이루어지는 실생활 상황과 연결하여 덧셈과 뺄셈의 의미를 이해한다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 420-420"
+  },
+  {
+   "code": "[2수01-06]",
+   "text": "두 자리 수의 범위에서 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 421-421"
+  },
+  {
+   "code": "[2수01-07]",
+   "text": "덧셈과 뺄셈의 관계를 이해한다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 422-422"
+  },
+  {
+   "code": "[2수01-08]",
+   "text": "두 자리 수의 범위에서 세 수의 덧셈과 뺄셈을 할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 423-423"
+  },
+  {
+   "code": "[2수01-09]",
+   "text": "□가 사용된 덧셈식과 뺄셈식을 만들고, □의 값을 구할 수 있다. 한 자리 수의 곱셈",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 424-424"
+  },
+  {
+   "code": "[2수01-10]",
+   "text": "곱셈이 이루어지는 실생활 상황과 연결하여 곱셈의 의미를 이해한다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 428-428"
+  },
+  {
+   "code": "[2수01-11]",
+   "text": "곱셈구구를 이해하고, 한 자리 수의 곱셈을 할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 429-429"
+  },
+  {
+   "code": "[2수02-01]",
+   "text": "물체, 무늬, 수 등의 배열에서 규칙을 찾아 여러 가지 방법으로 표현할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 489-489"
+  },
+  {
+   "code": "[2수02-02]",
+   "text": "자신이 정한 규칙에 따라 물체, 무늬, 수 등을 배열할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 490-490"
+  },
+  {
+   "code": "[2수03-01]",
+   "text": "교실 및 생활 주변에서 여러 가지 물건을 관찰하여 직육면체, 원기둥, 구의 모양을 찾고, 이를 이용하여 여러 가지 모양을 만들 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 512-513"
+  },
+  {
+   "code": "[2수03-02]",
+   "text": "쌓기나무를 이용하여 여러 가지 입체도형의 모양을 만들고, 그 모양에 대해 위치나 방향을 이용하여 말할 수 있다. 평면도형과 그 구성 요소",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 514-515"
+  },
+  {
+   "code": "[2수03-03]",
+   "text": "교실 및 생활 주변에서 여러 가지 물건을 관찰하여 삼각형, 사각형, 원의 모양을 찾고, 이를 이용하여 여러 가지 모양을 만들 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 519-520"
+  },
+  {
+   "code": "[2수03-04]",
+   "text": "삼각형, 사각형, 원을 직관적으로 이해하고, 그 모양을 그릴 수 있다. 13 수학과 교육과정",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 521-521"
+  },
+  {
+   "code": "[2수03-05]",
+   "text": "삼각형, 사각형에서 각각의 공통점을 찾아 말할 수 있다. 양의 비교",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 530-530"
+  },
+  {
+   "code": "[2수03-06]",
+   "text": "구체물의 길이, 들이, 무게, 넓이를 비교하여 각각 ‘길다, 짧다’, ‘많다, 적다’, ‘무겁다, 가볍다’, ‘넓다, 좁다’ 등을 구별하여 말할 수 있다. 시각과 시간",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 534-535"
+  },
+  {
+   "code": "[2수03-07]",
+   "text": "시계를 보고 시각을 ‘몇 시 몇 분’까지 읽을 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 539-539"
+  },
+  {
+   "code": "[2수03-08]",
+   "text": "1시간과 1분의 관계를 이해하고, 시간을 ‘시간’, ‘분’으로 표현할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 540-540"
+  },
+  {
+   "code": "[2수03-09]",
+   "text": "실생활 문제 상황과 연결하여 1분, 1시간, 1일, 1주일, 1개월, 1년 사이의 관계를 이해한다. 길이",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 541-542"
+  },
+  {
+   "code": "[2수03-10]",
+   "text": "길이 단위 1cm와 1m를 알고, 이를 이용하여 주변 사물의 길이를 측정할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 546-546"
+  },
+  {
+   "code": "[2수03-11]",
+   "text": "1m와 1cm의 관계를 이해하고, 길이를 ‘몇 m 몇 cm’와 ‘몇 cm’로 표현할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 547-547"
+  },
+  {
+   "code": "[2수03-12]",
+   "text": "여러 가지 물건의 길이를 어림하고, 길이에 대한 양감을 기른다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 548-548"
+  },
+  {
+   "code": "[2수03-13]",
+   "text": "실생활 문제 상황과 연결하여 길이의 덧셈과 뺄셈을 할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 549-549"
+  },
+  {
+   "code": "[2수04-01]",
+   "text": "여러 가지 사물을 정해진 기준 또는 자신이 정한 기준으로 분류하여 개수를 세어 보고, 기준에 따른 결과를 말할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 600-601"
+  },
+  {
+   "code": "[2수04-02]",
+   "text": "자료를 분류하여 표로 나타내고, 자료를 표로 나타내면 편리한 점을 말할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 602-602"
+  },
+  {
+   "code": "[2수04-03]",
+   "text": "자료를 분류하여 ○, ×, / 등을 이용한 그래프로 나타내고, 자료를 그래프로 나타내면 편리한 점을 말할 수 있다. 15 수학과 교육과정",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 603-604"
+  },
+  {
+   "code": "[2슬01-01]",
+   "text": "학교 안팎의 모습과 생활을 탐색하며 안전한 학교 생활을 한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2슬01-02]",
+   "text": "나를 탐색하여 나에 대해 설명한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2슬01-03]",
+   "text": "가족이나 주변 사람에게 관심을 갖고 함께 살아가는 모습을 탐구한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2슬01-04]",
+   "text": "사람과 자연, 동식물이 어우러져 사는 생태를 탐구한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2슬02-01]",
+   "text": "우리가 살고 있는 마을과 사람들이 생활하는 모습을 살펴본다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2슬02-02]",
+   "text": "우리나라의 모습이나 문화를 조사한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2슬02-03]",
+   "text": "알고 싶은 나라를 탐구하며 다른 나라에 관심을 갖는다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2슬02-04]",
+   "text": "궁금한 세계를 다양한 매체로 탐색한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2슬03-01]",
+   "text": "하루의 변화와 사람들이 하루를 살아가는 모습을 탐색한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2슬03-02]",
+   "text": "계절과 생활의 관계를 탐구한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2슬03-03]",
+   "text": "관심 있는 대상의 과거와 현재를 살펴보고 미래를 상상한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2슬03-04]",
+   "text": "우리의 생활과 관련된 지속가능성의 다양한 사례를 찾고 탐색한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2슬04-01]",
+   "text": "생활도구의 모양이나 기능을 탐색하고 바꾸어본다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2슬04-02]",
+   "text": "상상한 것을 다양한 매체와 재료로 구현한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2슬04-03]",
+   "text": "경험한 것 중에서 관심 있는 주제를 정하고 조사한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2슬04-04]",
+   "text": "배운 것과 배울 것을 연결하며 앞으로의 배움을 상상한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2즐01-01]",
+   "text": "즐겁게 놀이하며, 건강하고 안전하게 생활한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2즐01-02]",
+   "text": "놀이하며 내 몸의 움직임이나 감각을 느낀다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2즐01-03]",
+   "text": "가족이나 주변 사람과 소통하며 어울린다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2즐01-04]",
+   "text": "우리를 둘러싼 자연의 아름다움을 감상한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2즐02-01]",
+   "text": "내가 참여할 수 있는 문화 예술을 향유한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2즐02-02]",
+   "text": "우리나라의 문화 예술을 즐긴다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2즐02-03]",
+   "text": "다른 나라의 문화 예술을 체험한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2즐02-04]",
+   "text": "다양한 세상을 상상하고 표현한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2즐03-01]",
+   "text": "하루를 건강하고 활기차게 지낸다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2즐03-02]",
+   "text": "자연의 변화를 느끼며 놀이한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2즐03-03]",
+   "text": "전통문화를 새롭게 표현한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2즐03-04]",
+   "text": "안전과 안녕을 위한 아동의 권리가 있음을 알고 누린다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2즐04-01]",
+   "text": "주변의 물건을 활용하여 놀잇감을 만든다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2즐04-02]",
+   "text": "자유롭게 상상하며 놀이한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2즐04-03]",
+   "text": "생각이나 느낌을 살려 전시나 공연 활동을 한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[2즐04-04]",
+   "text": "기억에 남는 경험을 떠올리며 의미를 부여한다.",
+   "sourceId": "kr-moe-2022-33-annex15-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4과01-01]",
+   "text": "일상생활에서 힘과 관련된 현상에 흥미를 갖고, 물체를 밀거나 당길 때 나타나는 현상을 관찰할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 644-645"
+  },
+  {
+   "code": "[4과01-02]",
+   "text": "수평잡기 활동을 통해 물체의 무게를 비교할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 646"
+  },
+  {
+   "code": "[4과01-03]",
+   "text": "무게를 정확히 비교하기 위해서는 저울이 필요함을 알고, 저울을 사용해 무게를 비교할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 647-648"
+  },
+  {
+   "code": "[4과01-04]",
+   "text": "지레, 빗면과 같은 도구를 이용하면 물체를 들어 올릴 때 드는 힘의 크기가 달라짐을 알고, 도구가 일상생활에서 어떻게 쓰이는지 조사하여 공유할 수 있다. <탐구 활동> • 무거운 물체를 밀 때와 가벼운 물체를 밀 때의 특징 탐구하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 649-650"
+  },
+  {
+   "code": "[4과02-01]",
+   "text": "여러 가지 동물을 관찰하여 특징에 따라 동물을 분류할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 680"
+  },
+  {
+   "code": "[4과02-02]",
+   "text": "다양한 환경에 서식하는 동물을 조사하여 동물의 생김새와 생활 방식이 환경과 관련되어 있음을 설명할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 681-682"
+  },
+  {
+   "code": "[4과02-03]",
+   "text": "동물의 특징을 이용하여 일상생활에서 활용할 수 있는 생활용품을 설계하여 협력적으로 소통할 수 있다. <탐구 활동> • 동물 분류 기준 정하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 683-684"
+  },
+  {
+   "code": "[4과03-01]",
+   "text": "여러 가지 식물을 관찰하여 특징에 따라 식물을 분류할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 704"
+  },
+  {
+   "code": "[4과03-02]",
+   "text": "다양한 환경에 서식하는 식물을 조사하여 식물의 생김새와 생활 방식이 환경과 관련되어 있음을 설명할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 705-706"
+  },
+  {
+   "code": "[4과03-03]",
+   "text": "식물의 특징을 이용하여 일상생활에서 활용할 수 있는 생활용품을 설계하여 협력적으로 소통할 수 있다. <탐구 활동> • 식물 분류 기준 정하기 14 공통 교육과정",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 707-708"
+  },
+  {
+   "code": "[4과04-01]",
+   "text": "동물의 한살이를 직접 관찰하고, 관찰한 내용을 글과 그림으로 표현할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 738"
+  },
+  {
+   "code": "[4과04-02]",
+   "text": "식물이 자라는 데 필요한 조건을 찾는 실험을 설계하여 수행할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 739"
+  },
+  {
+   "code": "[4과04-03]",
+   "text": "생물의 한살이 과정을 조사하여 생물에 따라 한살이의 유형이 다양함을 소개하는 자료를 만들어 공유할 수 있다. <탐구 활동> • 곤충의 한살이 관찰하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 740-741"
+  },
+  {
+   "code": "[4과05-01]",
+   "text": "물체를 이루는 여러 가지 물질의 성질을 비교하고, 물질의 종류에 따라 물체를 분류할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 776-777"
+  },
+  {
+   "code": "[4과05-02]",
+   "text": "물질의 세 가지 상태인 고체, 액체, 기체의 성질을 관찰하여 비교할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 778"
+  },
+  {
+   "code": "[4과05-03]",
+   "text": "다양한 물질의 성질을 이용하여 쓰임새 있는 물체를 설계할 수 있다. <탐구 활동> • 용기에 따른 고체와 액체의 모양과 부피 변화 관찰하기 • 기체가 공간을 차지하고 있음을 알아보는 실험하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 779"
+  },
+  {
+   "code": "[4과06-01]",
+   "text": "지구가 대기로 둘러싸여 있음을 알고, 지구 표면을 구성하는 육지와 바다의 특징을 비교 할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 808-809"
+  },
+  {
+   "code": "[4과06-02]",
+   "text": "바닷물의 특징을 육지의 물과 비교하고, 바닷가에서 볼 수 있는 다양한 지형을 조사할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 810-811"
+  },
+  {
+   "code": "[4과06-03]",
+   "text": "밀물과 썰물의 차이를 알고, 갯벌의 가치와 보전의 필요성을 설득⋅홍보할 수 있다. <탐구 활동> • 지구의 육지와 바다 면적 비교하기 • 육지의 물과 바닷물을 가열하여 남는 물질 탐구하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 812"
+  },
+  {
+   "code": "[4과07-01]",
+   "text": "여러 가지 물체를 이용하여 소리를 내보고, 소리가 나는 물체는 떨림이 있음을 설명할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 846-847"
+  },
+  {
+   "code": "[4과07-02]",
+   "text": "큰 소리와 작은 소리, 높은 소리와 낮은 소리를 구분하고, 세기와 높낮이가 다른 소리를 낼 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 848-849"
+  },
+  {
+   "code": "[4과07-03]",
+   "text": "여러 가지 물질을 통하여 소리가 전달되는 것을 관찰하고, 소음을 줄이는 방법을 찾아 일상생활에서 실천할 수 있다. <탐구 활동> • 소리가 나는 소리굽쇠의 떨림 관찰하기 • 물체의 길이에 따른 소리의 높낮이 비교하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 850-851"
+  },
+  {
+   "code": "[4과08-01]",
+   "text": "생활 속 감염병의 사례를 알고, 다양한 질병과 그 위험성에 대해 토의할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 873"
+  },
+  {
+   "code": "[4과08-02]",
+   "text": "감염병으로부터 안전한 사회에 관심을 가지고, 여러 감염 과정을 통해 생활 습관과 감염병 유행과의 연관성을 설명할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 874-875"
+  },
+  {
+   "code": "[4과08-03]",
+   "text": "건강한 생활을 위해 필요한 감염병 예방 수칙을 공유하고, 생활 속에서 실천할 수 있다. <탐구 활동> • 감염 과정과 감염병 예방 방법 탐구하기 18 공통 교육과정",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 876"
+  },
+  {
+   "code": "[4과09-01]",
+   "text": "자석과 여러 가지 물체를 가까이했을 때 나타나는 현상을 관찰하고, 자석과 자석에 붙는 물체 사이에 작용하는 힘의 특징을 말할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 908-909"
+  },
+  {
+   "code": "[4과09-02]",
+   "text": "자석과 자석을 가까이했을 때 나타나는 현상을 관찰하여 그 특징을 자석의 극과 관련지어 설명할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 910-911"
+  },
+  {
+   "code": "[4과09-03]",
+   "text": "자석을 이용하여 일상생활을 편리하게 하는 장치를 설계할 수 있다. <탐구 활동> • 자석의 극을 찾고 서로 같은 극과 다른 극을 가까이했을 때의 특징 비교하기 • 나침반과 자석을 가까이했을 때 나타나는 현상 관찰하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 912"
+  },
+  {
+   "code": "[4과10-01]",
+   "text": "물이 세 가지 상태로 변할 수 있음을 알고, 우리 주변에서 예를 찾을 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 938"
+  },
+  {
+   "code": "[4과10-02]",
+   "text": "물이 얼 때, 얼음이 녹을 때, 물이 증발할 때와 끓을 때, 수증기가 응결할 때의 변화를 관찰할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 939-940"
+  },
+  {
+   "code": "[4과10-03]",
+   "text": "물의 상태 변화를 이용하여 물을 얻을 수 있는 장치를 설계하고 만들 수 있다. <탐구 활동> • 물이 얼 때와 얼음이 녹을 때의 무게와 부피 변화 관찰하기 • 물이 증발할 때와 끓을 때의 특징 관찰하기 • 얼음이 든 비커의 바깥 면 관찰하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 941"
+  },
+  {
+   "code": "[4과11-01]",
+   "text": "흐르는 물의 작용과 강 주변 지형의 특징을 관련지을 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 976"
+  },
+  {
+   "code": "[4과11-02]",
+   "text": "화산의 의미와 화산 활동으로 나오는 물질을 알고, 화산 활동을 모형으로 표현할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 977"
+  },
+  {
+   "code": "[4과11-03]",
+   "text": "화성암을 관찰하고 분류할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 978"
+  },
+  {
+   "code": "[4과11-04]",
+   "text": "화산 활동과 지진이 우리 생활에 미치는 영향을 조사하여, 대처 방법을 실천할 수 있다. <탐구 활동> • 흙 언덕을 만들고 물을 흘려보낸 후, 깎이는 곳과 쌓이는 곳 관찰하기 • 지진의 피해 사례를 조사하고 대처 방법 탐구하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 979"
+  },
+  {
+   "code": "[4과12-01]",
+   "text": "균류⋅원생생물⋅세균을 관찰하여 특징과 사는 곳을 설명할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1004"
+  },
+  {
+   "code": "[4과12-02]",
+   "text": "균류⋅원생생물⋅세균이 우리 생활에 미치는 영향을 조사하여 발표할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1005"
+  },
+  {
+   "code": "[4과12-03]",
+   "text": "우리 생활에 생명과학이 이용되는 사례를 소개하는 자료를 만들어 공유할 수 있다. <탐구 활동> • 버섯과 곰팡이 관찰하기 21 과학과 교육과정 • 해캄과 짚신벌레 관찰하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1006"
+  },
+  {
+   "code": "[4과13-01]",
+   "text": "달의 모양과 표면, 달의 위상변화를 관찰하여 밤하늘 관찰에 흥미를 가질 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1041"
+  },
+  {
+   "code": "[4과13-02]",
+   "text": "태양계 구성원을 알고, 태양과 행성을 조사할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1042"
+  },
+  {
+   "code": "[4과13-03]",
+   "text": "별의 정의를 알고, 북극성 주변의 별자리를 관찰할 수 있다. <탐구 활동> • 여러 날 동안 보이는 달의 모양 관찰하기 • 태양계 행성 모형 만들기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1043"
+  },
+  {
+   "code": "[4과14-01]",
+   "text": "생태계의 구성 요소를 조사하여 생물 요소와 비생물 요소로 분류할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1077"
+  },
+  {
+   "code": "[4과14-02]",
+   "text": "생물 요소들의 먹고 먹히는 관계를 조사하여 먹이그물로 표현할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1078"
+  },
+  {
+   "code": "[4과14-03]",
+   "text": "인간 활동이 생태계에 미치는 영향을 조사하고, 생태계 보전을 위해 우리가 할 수 있는 일을 토의하여 실천할 수 있다. <탐구 활동> • 양분을 얻는 방법에 따라 생물 요소 분류하기 • 먹이 관계 모형 만들기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1079-1080"
+  },
+  {
+   "code": "[4과15-01]",
+   "text": "실험을 통해 기체가 무게가 있음을 설명할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1114"
+  },
+  {
+   "code": "[4과15-02]",
+   "text": "온도나 압력에 따라 기체의 부피가 달라지는 현상을 관찰하고, 우리 주변에서 예를 찾을 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1115-1116"
+  },
+  {
+   "code": "[4과15-03]",
+   "text": "일상생활에서 이용되는 기체의 종류와 성질을 조사하고, 여러 가지 기체에 대해 흥미를 느낄 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1117-1118"
+  },
+  {
+   "code": "[4과15-04]",
+   "text": "기체의 성질을 이용하여 작동시킬 수 있는 장치를 설계하고 만들 수 있다. <탐구 활동> • 공기를 넣거나 뺄 때의 무게 변화 관찰하기 • 온도나 압력에 따른 기체의 부피 변화 관찰하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1119"
+  },
+  {
+   "code": "[4과16-01]",
+   "text": "기후변화 현상의 예를 알고, 기후변화가 인간의 활동과 관련되어 있음을 토의할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1148"
+  },
+  {
+   "code": "[4과16-02]",
+   "text": "기후변화의 심각성에 관심을 가지고, 기후변화가 우리 생활과 환경에 미치는 영향을 설 명할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1149-1150"
+  },
+  {
+   "code": "[4과16-03]",
+   "text": "기후변화 대응 방법을 조사하고, 생활 속에서 기후변화 대응 방법을 실천할 수 있다. <탐구 활동> • 해수면 상승으로 인한 피해 모형실험하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1151"
+  },
+  {
+   "code": "[4국01-01]",
+   "text": "중요한 내용과 주제를 파악하며 듣고 그 내용을 요약한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국01-02]",
+   "text": "원인과 결과의 관계를 고려하여 내용을 예측하며 듣고 말한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국01-03]",
+   "text": "상황에 적절한 준언어⋅비언어적 표현을 활용하여 듣고 말한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국01-04]",
+   "text": "상황과 상대의 입장을 이해하고 예의를 지키며 대화한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국01-05]",
+   "text": "목적과 주제에 알맞게 자료를 정리하여 자신감 있게 발표한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국01-06]",
+   "text": "주제에 적절한 의견과 이유를 제시하고 서로의 생각을 교환하며 토의한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국02-01]",
+   "text": "글의 의미를 파악하며 유창하게 글을 읽는다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국02-02]",
+   "text": "문단과 글에서 중심 생각을 파악하고 내용을 간추린다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국02-03]",
+   "text": "질문을 활용하여 글을 예측하며 읽고 자신의 읽기 과정을 점검한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국02-04]",
+   "text": "글에 나타난 사실과 의견을 구분하고 필자와 자신의 의견을 비교한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국02-05]",
+   "text": "글이나 자료의 출처가 믿을 만한지 판단한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국02-06]",
+   "text": "바람직한 읽기 습관을 형성하고 읽기에 대한 자신감을 기른다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국03-01]",
+   "text": "중심 문장과 뒷받침 문장을 갖추어 문단을 쓰고, 문장과 문단을 중심으로 고쳐 쓴다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국03-02]",
+   "text": "절차와 결과가 드러나게 정확한 표현으로 보고하는 글을 쓴다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국03-03]",
+   "text": "대상에 대한 자신의 의견과 그렇게 생각한 이유가 드러나게 글을 쓴다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국03-04]",
+   "text": "목적과 주제를 고려하여 독자에게 마음을 전하는 글을 쓴다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국03-05]",
+   "text": "자신의 쓰기 과정을 점검하며 쓰기에 자신감을 갖는다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국04-01]",
+   "text": "단어와 단어 간의 의미 관계를 파악한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국04-02]",
+   "text": "단어를 분류하고 국어사전을 활용하여 능동적인 국어 활동을 한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국04-03]",
+   "text": "기본적인 문장의 짜임을 이해하고 적절하게 사용한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국04-04]",
+   "text": "글과 담화에 쓰인 높임 표현과 지시⋅접속 표현을 이해하고 상황에 맞게 표현한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국04-05]",
+   "text": "언어가 의사소통과 관계 형성의 수단임을 이해하고 국어를 소중히 여기는 태도를 지닌다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국05-01]",
+   "text": "인물과 이야기의 흐름을 중심으로 작품을 감상한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국05-02]",
+   "text": "자신의 경험을 바탕으로 작품 속 세계와 현실 세계를 비교하여 작품을 감상한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국05-03]",
+   "text": "작품을 듣거나 읽고 마음에 드는 작품을 소개한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국05-04]",
+   "text": "감각적 표현에 유의하여 작품을 감상하고, 감각적 표현을 활용하여 자신의 생각이나 감정을 표현한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국05-05]",
+   "text": "재미나 감동을 느끼며 작품을 즐겨 감상하는 태도를 지닌다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국06-01]",
+   "text": "인터넷에서 학습에 필요한 다양한 자료를 탐색하고 목적에 맞게 자료를 선택한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국06-02]",
+   "text": "매체를 활용하여 간단한 발표 자료를 만든다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4국06-03]",
+   "text": "매체 소통 윤리를 고려하여 매체 자료를 활용하고 공유한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4도01-01]",
+   "text": "자신의 감정을 소중히 여기며 존중하는 태도를 바탕으로 내가 누구인가를 탐구한다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 456"
+  },
+  {
+   "code": "[4도01-02]",
+   "text": "정직의 의미를 알고 모범적인 사례를 탐색하여 바르게 행동하려는 태도를 기른다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 457"
+  },
+  {
+   "code": "[4도01-03]",
+   "text": "성실한 생활의 모범 사례를 탐색하고 시간 관리를 위한 생활을 계획하여 지속적인 자기 성장을 모색한다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 458"
+  },
+  {
+   "code": "[4도01-04]",
+   "text": "다른 사람의 관점을 수용할 수 있는지를 도덕적으로 검토하고 도덕규범을 내면화하여 도덕적으로 행동할 수 있는 자세를 기른다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 460"
+  },
+  {
+   "code": "[4도02-01]",
+   "text": "효, 우애의 의미와 필요성을 명료하게 이해하고 가족의 행복을 위해 할 수 있는 일을 탐색 하여 실천 계획을 세운다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 494"
+  },
+  {
+   "code": "[4도02-02]",
+   "text": "친구 사이의 배려에 대한 올바른 이해를 바탕으로 일상생활에서 배려에 기반한 도덕적 관계를 맺을 수 있는 방안을 탐색한다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 496"
+  },
+  {
+   "code": "[4도02-03]",
+   "text": "공감의 태도가 필요한 이유를 이해하고 도덕적 상상력을 바탕으로 대상과 상황에 따라 감정을 나누는 방법을 탐구하여 실천한다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 498"
+  },
+  {
+   "code": "[4도03-01]",
+   "text": "불공정의 사례를 탐구하고, 일상생활에서 공정의 가치를 추구하는 활동을 통해 실천 의지를 함양한다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 534"
+  },
+  {
+   "code": "[4도03-02]",
+   "text": "디지털 사회에서 발생하는 다양한 문제를 살펴보고, 해결 방안을 탐구하여 정보통신 윤리에 대한 민감성을 기른다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 536"
+  },
+  {
+   "code": "[4도03-03]",
+   "text": "통일의 필요성을 이해하고, 통일 감수성을 길러 바람직한 통일의 방향을 모색한다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 538"
+  },
+  {
+   "code": "[4도04-01]",
+   "text": "생명 경시 사례를 조사하고 문제 해결 방법을 탐구함으로써 생명의 소중함을 이해한다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 575"
+  },
+  {
+   "code": "[4도04-02]",
+   "text": "인간과 자연이 함께 살아야 하는 이유를 이해하고 공생을 위한 구체적인 실천 계획을 세우며 생태 감수성을 기른다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 576"
+  },
+  {
+   "code": "[4미01-01]",
+   "text": "자연물과 인공물을 탐색하는 데 다양한 감각을 활용할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4미01-02]",
+   "text": "주변 대상을 체험하며 떠오른 느낌과 생각을 다양한 방법으로 나타낼 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4미01-03]",
+   "text": "미적 탐색에 호기심을 갖고 참여하며 자신의 감각으로 대상의 특징을 이해할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4미01-04]",
+   "text": "생활 속에서 활용되는 미술에 관심을 가지고 미술의 특징과 역할을 발견할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4미02-01]",
+   "text": "관찰과 상상으로 아이디어를 떠올려 표현 주제를 구체화할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4미02-02]",
+   "text": "기본적인 표현 재료와 용구의 특성을 이해하고 사용 방법을 익힐 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4미02-03]",
+   "text": "조형 요소의 특징을 자유롭게 탐색하며 주제 표현에 알맞게 활용할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4미02-04]",
+   "text": "표현 의도를 가지고 작품을 제작하며 자기 작품을 소중히 여길 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4미02-05]",
+   "text": "미술과 타 교과를 관련지어 주제를 표현하는데 흥미를 가질 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4미03-01]",
+   "text": "미술 작품을 자세히 보고 작품과 미술가에 관해 질문할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4미03-02]",
+   "text": "미술 작품의 특징과 작품에 관한 자신의 느낌과 생각을 설명할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4미03-03]",
+   "text": "미술 문화에 관심을 가지고 전시 및 행사에 참여할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4미03-04]",
+   "text": "작품 감상에 흥미를 가지고 참여하며 작품에 대한 자신의 감상 관점을 존중할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사01-01]",
+   "text": "은 학생들의 생활이 이루어지는 주변 여러 장소에서의 경험과 느낌을 글, 그림, 심상지도 등의 다양한 방식으로 표현하고, 이를 통해 사람마다 장소감의 차이가 나타날 수 있음을 이해하도록 설정한 것이다. 장소감이란 장소에 대한 인지, 감정, 태도, 행동을 포괄 하는 것으로 개인이나 집단이 장소에 부여하는 의미나 관심을 뜻한다. 장소 경험을 공유하 는 과정에서 장소감의 차이를 이해하고 서로 존중하며, 주변의 장소를 알아가면서 이에 대 한 관심을 심화시키는 데 초점을 맞춘다. •",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사01-02]",
+   "text": "는 학생들이 생활하는 데 편익을 제공하는 주요 장소 및 시설이나 기관을 살펴 보고, 우리가 사는 곳을 더 살기 좋은 곳으로 만드는 방안을 찾아보도록 설정한 것이다. 특 히, 우리가 사는 곳의 놀이⋅여가, 안전, 교육⋅문화, 건강⋅의료 등과 관련 있는 장소를 조사하여 좋은 점, 불편한 점 등을 확인하고, 학생들의 관점에서 살기 좋은 곳의 조건을 생 각하면서 우리가 사는 곳에 관심을 가지도록 하는 데 중점을 둔다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사02-01]",
+   "text": "일상 속에서 시간의 흐름을 경험할 수 있는 사례를 살펴보고, 이를 바탕으로 역사의 시간 개념을 이해한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사02-02]",
+   "text": "오래된 물건이나 자료들을 주변에서 찾아보고, 이를 통해 과거의 모습을 살펴볼 수 있음을 이해한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사02-03]",
+   "text": "지역의 변화상을 보여주는 역사 자료를 분석하여 지역 사람들의 달라진 생활 모습을 파 악한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사03-01]",
+   "text": "최근 사회 변화의 양상과 특징을 파악하고, 그로 인해 나타난 생활모습의 변화를 탐색한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사03-02]",
+   "text": "우리 사회에 다양한 문화가 확산되면서 나타나는 긍정적 효과와 문제를 분석하고, 나와 다른 사람이나 집단의 문화를 존중하는 태도를 기른다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사04-01]",
+   "text": "옛날 풍습에 대해 알아보고, 오늘날과 비교하여 변화상을 파악한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사04-02]",
+   "text": "옛날부터 오늘날까지 교통의 변화에 따른 이동과 생활 모습의 변화를 이해한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사04-03]",
+   "text": "옛날부터 오늘날까지 통신수단의 변화에 따른 정보 교류와 의사소통 방식의 변화를 설명 한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사05-01]",
+   "text": "우리 지역을 표현한 다양한 종류의 지도를 찾아보고, 지도의 요소를 이해한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사05-02]",
+   "text": "지도에서 우리 지역의 위치를 파악하고, 우리 지역의 지리 정보를 탐색한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사06-01]",
+   "text": "지역의 문화유산을 통해 문화유산의 의미와 유형을 알아보고, 문화유산의 가치를 탐색한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사06-02]",
+   "text": "지역의 박물관, 기념관, 유적지 등을 체험하고 지역의 역사를 이해한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사07-01]",
+   "text": "자원의 희소성으로 인해 경제활동에서 선택의 문제가 발생함을 이해하고, 경제활동에서 합 리적 선택의 방법을 탐색한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사07-02]",
+   "text": "의 지역 간 교류 학습에서 다른 지역의 위 치를 파악하는 데 도움이 되도록 한다. • 지역의 누리집, 통계, 지도, 지역에서 발간하는 홍보물 등 다양한 자료를 이용하여 지역의 지리 정보를 조사한다. 우리 지역의 특징을 이해하기 위해 우리 지역과 다른 지역을 비교하여 지역 간의 차이점이나 상호의존 관계를 파악하는 활동을 수행할 수 있다. 다만 지역 간의 우열을 가리거나 다른 지역에 대한 편견을 가지지 않도록 유의한다. • 지도의 요소 이해를 바탕으로 지도를 읽고 해석하는 활동에서 지도를 활용하는 능력을 평가할 수 있다. 이때, 축척 계산, 방위 기입, 기호 식별 등과 같은 지필평가는 지양한다. (6) 우리 지역의 문화유산",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사08-01]",
+   "text": "학교 자치 사례를 통하여 민주주의의 의미를 이해하고, 학교생활에서 민주주의를 실천하는 능력을 기른다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사08-02]",
+   "text": "지역에서 이루어지는 민주주의 사례를 통해 주민 자치와 주민 참여의 중요성을 파악하고, 지역사회의 문제 해결에 참여하는 태도를 기른다. 25 사회과 교육과정",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사09-01]",
+   "text": "생활 주변에서 찾을 수 있는 여러 가지 문제를 파악하고, 그 문제를 합리적으로 해결하는 능력을 기른다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사09-02]",
+   "text": "지역의 자연환경, 역사, 문화, 생산물 등을 알리려는 지역사회의 노력을 알고 관심을 갖는다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사10-01]",
+   "text": "여러 지역의 자연환경과 인문환경의 특징을 살펴보고, 환경의 이용과 개발에 따른 변화를 탐구한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4사10-02]",
+   "text": "사례에서 도시의 인구, 교통, 산업 등의 특징을 탐구하고, 도시에서의 삶의 모습을 이해 한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4수01-01]",
+   "text": "큰 수의 필요성을 인식하면서 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 644-645"
+  },
+  {
+   "code": "[4수01-02]",
+   "text": "다섯 자리 이상의 수의 범위에서 수의 계열을 이해하고, 수의 크기를 비교하며 그 방법을 설명할 수 있다. 세 자리 수의 덧셈과 뺄셈",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 646-647"
+  },
+  {
+   "code": "[4수01-03]",
+   "text": "세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다. 세 자리 수 범위의 곱셈",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 651-651"
+  },
+  {
+   "code": "[4수01-04]",
+   "text": "곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다. 세 자리 수 범위의 나눗셈",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 655-656"
+  },
+  {
+   "code": "[4수01-05]",
+   "text": "나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 660-661"
+  },
+  {
+   "code": "[4수01-06]",
+   "text": "나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 662-663"
+  },
+  {
+   "code": "[4수01-07]",
+   "text": "나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다. 자연수의 어림셈",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 664-664"
+  },
+  {
+   "code": "[4수01-08]",
+   "text": "자연수의 덧셈, 뺄셈, 곱셈, 나눗셈과 관련한 여러 가지 상황에서 어림셈을 할 수 있다. 분수",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 668-668"
+  },
+  {
+   "code": "[4수01-09]",
+   "text": "양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 672-672"
+  },
+  {
+   "code": "[4수01-10]",
+   "text": "단위분수, 진분수, 가분수, 대분수를 알고, 그 관계를 이해한다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 673-673"
+  },
+  {
+   "code": "[4수01-11]",
+   "text": "분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다. 소수",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 674-674"
+  },
+  {
+   "code": "[4수01-12]",
+   "text": "분모가 10인 진분수와 연결하여 소수 한 자리 수를 이해하고 읽고 쓸 수 있다. 17 수학과 교육과정",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 678-678"
+  },
+  {
+   "code": "[4수01-13]",
+   "text": "자릿값의 원리를 바탕으로 소수 두 자리 수와 소수 세 자리 수를 이해하고 읽고 쓸 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 687-688"
+  },
+  {
+   "code": "[4수01-14]",
+   "text": "소수의 크기를 비교하고 그 방법을 설명할 수 있다. 분수의 덧셈과 뺄셈",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 689-689"
+  },
+  {
+   "code": "[4수01-15]",
+   "text": "분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다. 소수의 덧셈과 뺄셈",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 693-693"
+  },
+  {
+   "code": "[4수01-16]",
+   "text": "소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 697-698"
+  },
+  {
+   "code": "[4수02-01]",
+   "text": "다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 746-746"
+  },
+  {
+   "code": "[4수02-02]",
+   "text": "계산식의 배열에서 규칙을 찾고, 계산 결과를 추측할 수 있다. 등호와 동치 관계",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 747-747"
+  },
+  {
+   "code": "[4수02-03]",
+   "text": "등호를 사용하여 크기가 같은 두 양의 관계를 식으로 나타낼 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 751-751"
+  },
+  {
+   "code": "[4수03-01]",
+   "text": "직선, 선분, 반직선을 이해하고 구별할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 785-785"
+  },
+  {
+   "code": "[4수03-02]",
+   "text": "각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 786-786"
+  },
+  {
+   "code": "[4수03-03]",
+   "text": "직선의 수직 관계와 평행 관계를 이해한다. 평면도형의 이동",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 787-787"
+  },
+  {
+   "code": "[4수03-04]",
+   "text": "구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 791-791"
+  },
+  {
+   "code": "[4수03-05]",
+   "text": "평면에서 점의 이동에 대해 위치와 방향을 이용하여 설명할 수 있다. 원의 구성 요소",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 792-792"
+  },
+  {
+   "code": "[4수03-06]",
+   "text": "원의 중심, 반지름, 지름을 이해하고, 그 성질을 안다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 796-796"
+  },
+  {
+   "code": "[4수03-07]",
+   "text": "컴퍼스를 이용하여 여러 가지 크기의 원을 그릴 수 있다. 여러 가지 삼각형",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 797-797"
+  },
+  {
+   "code": "[4수03-08]",
+   "text": "여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해하고, 그 성질을 탐구하고 설명할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 801-802"
+  },
+  {
+   "code": "[4수03-09]",
+   "text": "여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각 삼각형을 이해한다. 여러 가지 사각형",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 803-804"
+  },
+  {
+   "code": "[4수03-10]",
+   "text": "여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행 사변형, 마름모를 이해하고, 그 성질을 탐구하고 설명할 수 있다. 20 공통 교육과정 다각형",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 808-809"
+  },
+  {
+   "code": "[4수03-11]",
+   "text": "다각형과 정다각형을 이해한다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 819-819"
+  },
+  {
+   "code": "[4수03-12]",
+   "text": "주어진 도형을 이용하여 여러 가지 모양을 만들거나 채우고 설명할 수 있다. 시각과 시간",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 820-820"
+  },
+  {
+   "code": "[4수03-13]",
+   "text": "1분과 1초의 관계를 이해하고, 초 단위까지 시각을 읽을 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 824-824"
+  },
+  {
+   "code": "[4수03-14]",
+   "text": "실생활 문제 상황과 연결하여 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다. 길이",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 825-825"
+  },
+  {
+   "code": "[4수03-15]",
+   "text": "길이 단위 1mm와 1km를 알고, 이를 이용하여 길이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 829-830"
+  },
+  {
+   "code": "[4수03-16]",
+   "text": "1cm와 1mm, 1km와 1m의 관계를 이해하고, 길이를 ‘몇 cm 몇 mm’와 ‘몇 mm’, ‘몇 km 몇 m’와 ‘몇 m’로 다양하게 표현할 수 있다. 들이",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 831-832"
+  },
+  {
+   "code": "[4수03-17]",
+   "text": "들이 단위 1L와 1mL를 알고, 이를 이용하여 들이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 836-837"
+  },
+  {
+   "code": "[4수03-18]",
+   "text": "1L와 1mL의 관계를 이해하고, 들이를 ‘몇 L 몇 mL’와 ‘몇 mL’로 표현할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 838-838"
+  },
+  {
+   "code": "[4수03-19]",
+   "text": "실생활 문제 상황과 연결하여 들이의 덧셈과 뺄셈을 할 수 있다. 무게",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 839-839"
+  },
+  {
+   "code": "[4수03-20]",
+   "text": "실생활에서 무게를 나타낼 때 사용하는 단위 1g과 1kg을 알고, 이를 이용하여 무게를 측정하고 어림하며 수학의 유용성을 인식할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 843-844"
+  },
+  {
+   "code": "[4수03-21]",
+   "text": "1kg과 1g의 관계를 이해하고, 무게를 ‘몇 kg 몇 g’과 ‘몇 g’으로 표현할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 845-845"
+  },
+  {
+   "code": "[4수03-22]",
+   "text": "실생활에서 무게를 나타낼 때 사용하는 단위 1t을 알고, 1t과 1kg의 관계를 이해한다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 846-846"
+  },
+  {
+   "code": "[4수03-23]",
+   "text": "실생활 문제 상황과 연결하여 무게의 덧셈과 뺄셈을 할 수 있다. 각도",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 847-847"
+  },
+  {
+   "code": "[4수03-24]",
+   "text": "각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 851-851"
+  },
+  {
+   "code": "[4수03-25]",
+   "text": "여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다. 21 수학과 교육과정",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 852-853"
+  },
+  {
+   "code": "[4수04-01]",
+   "text": "자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 917-917"
+  },
+  {
+   "code": "[4수04-02]",
+   "text": "자료를 수집하여 꺾은선그래프로 나타내고 해석할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 918-918"
+  },
+  {
+   "code": "[4수04-03]",
+   "text": "탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 919-920"
+  },
+  {
+   "code": "[4영01-01]",
+   "text": "알파벳과 쉽고 간단한 단어의 소리를 듣고 식별한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영01-02]",
+   "text": "알파벳 대소문자를 식별하여 읽는다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영01-03]",
+   "text": "쉽고 간단한 단어, 어구, 문장을 듣고 강세, 리듬, 억양을 식별한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영01-04]",
+   "text": "소리와 철자의 관계를 이해하며 쉽고 간단한 단어, 어구, 문장을 소리 내어 읽는다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영01-05]",
+   "text": "쉽고 간단한 단어, 어구, 문장의 의미를 이해한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영01-06]",
+   "text": "자기 주변 주제에 관한 담화의 주요 정보를 파악한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영01-07]",
+   "text": "적절한 전략을 활용하여 담화나 문장을 듣거나 읽는다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영01-08]",
+   "text": "다양한 매체로 표현된 담화나 문장을 흥미를 가지고 듣거나 읽는다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영01-09]",
+   "text": "시, 노래, 이야기를 공감하며 듣는다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영01-10]",
+   "text": "자기 주변 주제나 문화에 관한 담화나 문장을 존중의 태도로 듣거나 읽는다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영02-01]",
+   "text": "쉽고 간단한 단어, 어구, 문장을 강세, 리듬, 억양에 맞게 따라 말한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영02-02]",
+   "text": "알파벳 대소문자를 구별하여 쓴다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영02-03]",
+   "text": "소리와 철자의 관계를 바탕으로 쉽고 간단한 단어를 쓴다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영02-04]",
+   "text": "실물, 그림, 동작 등을 보고 쉽고 간단한 문장으로 말하거나 단어나 어구를 쓴다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영02-05]",
+   "text": "자신, 주변 사람이나 사물의 소개나 묘사를 쉽고 간단한 문장으로 말하거나 보고 쓴다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영02-06]",
+   "text": "행동 지시를 쉽고 간단한 문장으로 말하거나 보고 쓴다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영02-07]",
+   "text": "자신의 감정을 쉽고 간단한 문장으로 말하거나 보고 쓴다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영02-08]",
+   "text": "자기 주변 주제에 관한 담화의 주요 정보를 묻거나 답한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영02-09]",
+   "text": "적절한 매체나 전략을 활용하여 창의적으로 의미를 표현한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4영02-10]",
+   "text": "의사소통 활동에 흥미와 자신감을 가지고 대화 예절을 지키며 참여한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4음01-01]",
+   "text": "바른 자세와 주법을 익혀 노래 부르거나 악기로 연주한다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4음01-02]",
+   "text": "기초적인 음악 요소를 살려 노래 부르거나 악기로 연주하고 느낌을 이야기한다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4음01-03]",
+   "text": "노래와 악기 연주에 어울리는 신체표현이나 놀이를 하며 음악을 즐긴다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4음01-04]",
+   "text": "생활 속에서 음악을 경험하며 연주에 관심을 가지고 참여한다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4음02-01]",
+   "text": "음악을 듣고 기초적인 음악 요소를 탐색하며 반응한다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4음02-02]",
+   "text": "다양한 음악을 듣고 음악적 특징을 발견한다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4음02-03]",
+   "text": "다양한 종류의 음악을 듣고 음악의 분위기를 묘사하거나 쓰임을 이야기한다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4음02-04]",
+   "text": "생활 속에서 음악을 들으며 느낌과 호기심을 갖고 즐긴다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4음02-05]",
+   "text": "우리 지역의 음악 문화유산을 찾아 듣고 국악을 즐기는 태도를 갖는다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4음03-01]",
+   "text": "느낌과 상상을 즉흥적으로 표현하며 음악에 대한 흥미를 갖는다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4음03-02]",
+   "text": "악곡의 일부를 바꾸어 표현하고 간단한 악보로 나타낸다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4음03-03]",
+   "text": "기초적인 음악 요소를 활용하여 소리나 음악으로 표현한다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4음03-04]",
+   "text": "생활 주변의 소리나 장면을 모방하며 음악의 새로움을 즐기는 태도를 갖는다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체01-01]",
+   "text": "운동과 체력의 의미를 이해하고 관계를 파악한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체01-02]",
+   "text": "기본 체력운동의 방법과 절차를 익히며 자신의 수준에 맞는 운동을 시도한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체01-03]",
+   "text": "운동과 건강의 의미를 이해하고 관계를 파악한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체01-04]",
+   "text": "건강을 위한 바른 생활 습관을 이해하고 생활 속에서 규칙적으로 실천한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체01-05]",
+   "text": "자신의 신체적 특징을 긍정적으로 인식하고 운동 계획을 세워 안전하게 활동한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체01-06]",
+   "text": "운동과 건강한 생활 습관 형성에 관심을 갖고 적극적으로 실천한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체02-01]",
+   "text": "스포츠의 의미와 유형을 파악한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체02-02]",
+   "text": "기본 움직임 기술의 의미와 종류를 이해하고 스포츠와의 관계를 파악한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체02-03]",
+   "text": "움직임 요소에 따른 기본 움직임 기술의 수행 방법을 파악하고 시도한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체02-04]",
+   "text": "기본 움직임 기술을 연결한 복합적인 움직임 기술을 파악하고 시도한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체02-05]",
+   "text": "기술형 스포츠에 적합한 기본 움직임 기술을 파악하고 시도한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체02-06]",
+   "text": "전략형 스포츠에 적합한 기본 움직임 기술을 파악하고 시도한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체02-07]",
+   "text": "생태형 스포츠에 적합한 기본 움직임 기술을 파악하고 시도한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체02-08]",
+   "text": "움직임 기술 수행에 자신감을 갖고 적극적으로 시도한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체02-09]",
+   "text": "게임 활동에 최선을 다하고 규칙을 지킨다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체02-10]",
+   "text": "다양한 스포츠 환경에 개방적인 태도를 갖고 적극적이고 안전하게 스포츠 활동에 참여 한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체03-01]",
+   "text": "표현 활동의 의미와 기본 움직임 기술과의 관계를 파악한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체03-02]",
+   "text": "움직임 요소에 따른 기본 움직임 기술의 표현 방법을 파악하고 시도한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체03-03]",
+   "text": "기본 움직임 기술을 활용하여 사물이나 자연을 모방하여 표현한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체03-04]",
+   "text": "기본 움직임 기술을 활용하여 느낌이나 생각을 표현한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체03-05]",
+   "text": "기본 움직임 기술을 리듬에 맞춰 표현한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체03-06]",
+   "text": "기본 움직임 기술을 도구를 활용하여 표현한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[4체03-07]",
+   "text": "움직임의 심미적 표현에 대한 호기심과 감수성을 나타낸다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6과01-01]",
+   "text": "지층의 특징을 알고, 지층의 형성 과정을 모형으로 표현할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1186"
+  },
+  {
+   "code": "[6과01-02]",
+   "text": "지층이 퇴적암으로 이루어짐을 알고, 퇴적암을 알갱이의 크기에 따라 분류할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1187"
+  },
+  {
+   "code": "[6과01-03]",
+   "text": "화석의 생성 과정을 모형으로 설명하고, 지구의 과거 생물과 환경을 추리하는 활동을 통해 화석의 가치를 인식할 수 있다. <탐구 활동> • 이암, 사암, 역암 관찰하기 • 화석을 관찰하고 화석 모형 만들기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1188-1189"
+  },
+  {
+   "code": "[6과02-01]",
+   "text": "물체를 보기 위해서 빛이 있어야 함을 알고, 빛의 성질에 대해 흥미를 느낄 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1212"
+  },
+  {
+   "code": "[6과02-02]",
+   "text": "빛이 나아가는 현상을 관찰하여 빛이 직진, 반사, 굴절하는 성질이 있음을 말할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1213"
+  },
+  {
+   "code": "[6과02-03]",
+   "text": "거울과 렌즈의 쓰임새를 조사하고 거울이나 렌즈를 이용한 장치를 창의적으로 만들 수 있다. <탐구 활동> • 어둠상자 속의 물체 관찰하기 • 평면거울에서 빛의 반사 실험하기 26 공통 교육과정 • 렌즈를 이용하여 빛의 굴절 실험하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1214"
+  },
+  {
+   "code": "[6과03-01]",
+   "text": "용해 현상의 의미를 알고, 용질의 종류와 물의 온도에 따라 물에 녹는 용질의 양이 달라 짐을 비교할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1247-1248"
+  },
+  {
+   "code": "[6과03-02]",
+   "text": "용질이나 용매의 양에 따라 용액의 진하기가 달라짐을 관찰하고, 용액의 상대적인 진하 기를 비교할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1249-1250"
+  },
+  {
+   "code": "[6과03-03]",
+   "text": "일상생활에서 용액이 쓰이는 사례를 조사하여 용액의 필요성을 알리는 자료를 만들고 공 유할 수 있다. <탐구 활동> • 용해 전과 후의 무게 측정하기 • 물에 녹는 용질의 양에 영향을 미치는 요인 탐구하기 • 진하기가 다른 용액에서 물체의 뜨는 정도 비교하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1251-1252"
+  },
+  {
+   "code": "[6과04-01]",
+   "text": "뼈와 근육의 생김새를 관찰하고 모형을 만들어 몸이 움직이는 원리를 설명할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1284"
+  },
+  {
+   "code": "[6과04-02]",
+   "text": "소화, 순환, 호흡, 배설 기관의 구조와 기능을 알아보고, 우리 몸의 여러 기관이 서로 관 련되어 있음을 설명할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1285-1286"
+  },
+  {
+   "code": "[6과04-03]",
+   "text": "우리 몸의 여러 기관과 관련된 질병을 조사하고, 건강을 유지하기 위한 생활 방식을 실 천할 수 있다. <탐구 활동> • 운동할 때 몸에서 일어나는 변화 관찰하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1287-1288"
+  },
+  {
+   "code": "[6과05-01]",
+   "text": "알갱이의 크기가 다른 고체 혼합물과 골고루 섞이지 않는 액체 혼합물을 분리할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1320"
+  },
+  {
+   "code": "[6과05-02]",
+   "text": "물에 용해되는 성질을 이용하여 고체 혼합물을 분리하고, 물을 증발시켜 물에 용해된 고체 물질을 분리할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1321-1322"
+  },
+  {
+   "code": "[6과05-03]",
+   "text": "지속가능한 삶을 위한 과학기술 사례 중 혼합물의 분리를 이용한 장치를 조사하여 공유 할 수 있다. <탐구 활동> • 모래와 자갈의 혼합물 분리하기 • 물과 기름의 혼합물 분리하기 • 소금과 모래의 혼합물 분리하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1323-1324"
+  },
+  {
+   "code": "[6과06-01]",
+   "text": "기상 요소를 조사하고, 날씨가 우리 생활에 주는 영향을 인식할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1359"
+  },
+  {
+   "code": "[6과06-02]",
+   "text": "이슬, 안개, 구름을 관찰하고, 공통점과 차이점을 찾을 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1360"
+  },
+  {
+   "code": "[6과06-03]",
+   "text": "고기압과 저기압의 분포에 따른 날씨의 특징을 기상 요소로 표현할 수 있다. <탐구 활동> • 이슬, 안개 발생 실험하기 • 바람 발생에 대한 모형실험하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1361"
+  },
+  {
+   "code": "[6과07-01]",
+   "text": "물체의 따뜻하고 차가운 정도를 온도로 표현함을 알고, 온도계를 이용하여 온도를 측정 할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1397-1398"
+  },
+  {
+   "code": "[6과07-02]",
+   "text": "온도가 다른 두 물체가 접촉했을 때 두 물체의 온도 변화를 관찰하고 그 원인을 추리할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1399-1400"
+  },
+  {
+   "code": "[6과07-03]",
+   "text": "주위에서 열의 이동으로 나타나는 현상을 관찰하여 열의 이동 방식이 다양함을 설명할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1401-1402"
+  },
+  {
+   "code": "[6과07-04]",
+   "text": "일상생활에서 단열을 이용하는 사례를 조사하고, 온도를 오랫동안 일정하게 유지할 수 있는 장치를 창의적으로 만들 수 있다. <탐구 활동> • 온도가 다른 두 물체가 접촉할 때 두 물체의 온도 변화 측정하기 • 열이 이동하는 여러 방식의 특징 비교하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1403-1404"
+  },
+  {
+   "code": "[6과08-01]",
+   "text": "우리가 생활에서 이용하는 다양한 자원을 조사하고, 자원의 유한함을 설명할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1436"
+  },
+  {
+   "code": "[6과08-02]",
+   "text": "재생에너지의 종류를 조사하고, 에너지를 지속가능하게 이용하는 방법에 관심을 갖는다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1437"
+  },
+  {
+   "code": "[6과08-03]",
+   "text": "자원과 에너지의 효율적인 이용 방법에 대해 탐색하고, 생활 속에서 실천할 수 있는 다 양한 사례를 공유할 수 있다. <탐구 활동> • 효율적으로 에너지를 이용하는 집 모형의 효과 탐구하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1438-1439"
+  },
+  {
+   "code": "[6과09-01]",
+   "text": "여러 가지 용액에 지시약을 넣었을 때의 변화를 관찰하여 용액을 산성 용액과 염기성 용 액으로 분류할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1463-1464"
+  },
+  {
+   "code": "[6과09-02]",
+   "text": "산성 용액과 염기성 용액의 성질을 관찰하고, 산성 용액과 염기성 용액을 섞을 때 용액 의 성질 변화를 실험을 통해 추론할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1465-1466"
+  },
+  {
+   "code": "[6과09-03]",
+   "text": "우리 주변에서 산성 용액과 염기성 용액을 이용하는 예를 찾아서 설명할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1467"
+  },
+  {
+   "code": "[6과09-04]",
+   "text": "산성화로 인한 환경의 피해 사례를 소개하는 자료를 만들고 공유할 수 있다. 32 공통 교육과정 <탐구 활동> • 지시약을 이용하여 용액 분류하기 • 묽은 염산과 묽은 수산화 나트륨 용액을 섞을 때 용액의 색깔 변화 관찰하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1468"
+  },
+  {
+   "code": "[6과10-01]",
+   "text": "운동하는 물체는 시간에 따라 위치가 변화함을 알고 그 변화를 표현할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1507"
+  },
+  {
+   "code": "[6과10-02]",
+   "text": "물체의 이동 거리와 걸린 시간을 측정하여 속력을 구하고 빠르기를 비교할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1508"
+  },
+  {
+   "code": "[6과10-03]",
+   "text": "속력과 관련된 안전 수칙과 안전장치를 조사한 결과를 공유하고 일상생활에서 교통안전을 실천할 수 있다. <탐구 활동> • 운동하는 물체의 공통된 특징 탐구하기 33 과학과 교육과정 • 같은 시간 동안에 물체가 이동한 거리 비교하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1509-1510"
+  },
+  {
+   "code": "[6과11-01]",
+   "text": "생물을 이루고 있는 기본 단위인 세포를 현미경으로 관찰할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1543"
+  },
+  {
+   "code": "[6과11-02]",
+   "text": "식물의 각 기관의 구조를 관찰하고, 기능을 알아보는 실험을 수행하여 식물 각 기관의 구조와 기능을 설명할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1544-1545"
+  },
+  {
+   "code": "[6과11-03]",
+   "text": "여러 가지 식물의 특징을 설명하는 자료를 만들어 공유할 수 있다. <탐구 활동> • 줄기에서 물의 이동 실험하기 • 광합성 산물 확인 실험하기 • 증산 작용 확인 실험하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1546"
+  },
+  {
+   "code": "[6과12-01]",
+   "text": "하루 동안 태양과 별을 관찰하여 위치 변화의 규칙성을 찾을 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1582"
+  },
+  {
+   "code": "[6과12-02]",
+   "text": "지구의 자전을 알고, 낮과 밤이 생기는 이유를 설명할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1583"
+  },
+  {
+   "code": "[6과12-03]",
+   "text": "지구의 공전을 알고, 계절에 따라 달라지는 별자리를 관찰할 수 있다. <탐구 활동> • 낮과 밤이 생기는 이유 모형실험하기 • 천체 관측 프로그램을 이용하여 계절별 대표적인 별자리 관찰하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1584"
+  },
+  {
+   "code": "[6과13-01]",
+   "text": "태양 고도 측정기로 하루 동안 태양 고도, 그림자 길이, 기온을 측정하여 이들의 관계를 찾을 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1619-1620"
+  },
+  {
+   "code": "[6과13-02]",
+   "text": "계절에 따른 태양의 남중 고도와 낮의 길이 사이의 관계를 자료에 근거하여 추론할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1621"
+  },
+  {
+   "code": "[6과13-03]",
+   "text": "계절 변화의 원인을 지구의 자전축이 기울어진 채 공전하는 것으로 설명할 수 있다. <탐구 활동> • 태양 고도 측정기 만들기 • 디지털 자료를 활용하여 계절별 태양의 남중 고도, 낮의 길이 관계 탐구하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1622"
+  },
+  {
+   "code": "[6과14-01]",
+   "text": "물질의 성질이 달라지는 변화와 달라지지 않는 변화를 관찰하여 비교할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1651"
+  },
+  {
+   "code": "[6과14-02]",
+   "text": "물질이 연소할 때 나타나는 공통적인 현상을 관찰하고, 연소의 조건을 찾을 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1652"
+  },
+  {
+   "code": "[6과14-03]",
+   "text": "연소 전과 후의 물질을 비교하여 연소 과정에서 물질의 성질이 달라짐을 설명할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1653"
+  },
+  {
+   "code": "[6과14-04]",
+   "text": "연소 과정에서 생성되는 물질로 인한 생태계의 피해 사례를 수집하고 분석하여 해결책을 제안하고 공유할 수 있다. <탐구 활동> • 서로 다른 물질을 섞었을 때 물질의 성질 변화 관찰하기 • 양초와 알코올이 탈 때 나타나는 공통적인 현상 관찰하기 • 연소 후 생성되는 물질 확인하는 실험하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1654-1655"
+  },
+  {
+   "code": "[6과15-01]",
+   "text": "전지와 전구, 전선을 연결하여 전구에 불을 켜보고, 불이 켜지는 전기 회로의 특징을 말 할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1693-1694"
+  },
+  {
+   "code": "[6과15-02]",
+   "text": "전지 한 개를 연결한 전기 회로와 전지 두 개를 직렬연결한 전기 회로의 특징을 비교할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1695-1696"
+  },
+  {
+   "code": "[6과15-03]",
+   "text": "전자석을 만들어 전자석의 성질을 탐색하고 전자석이 사용되는 예를 조사할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1697"
+  },
+  {
+   "code": "[6과15-04]",
+   "text": "전기를 효율적이고 안전하게 사용하는 방법을 조사하여 실천 계획을 세우고 일상생활에서 실천할 수 있다. <탐구 활동> • 전구에 불이 켜지는 전기 회로와 불이 켜지지 않는 전기 회로 비교하기 • 전지 한 개를 연결한 전기 회로와 전지 두 개를 직렬연결한 전기 회로에서 전구의 밝기 비교하기 • 전자석의 성질을 영구 자석과 비교하여 탐색하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1698-1699"
+  },
+  {
+   "code": "[6과16-01]",
+   "text": "미래 사회에 일어날 수 있는 문제를 조사하고, 문제를 해결하는 데 과학이 기여할 수 있는 방법을 토의할 수 있다.",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext lines 1734-1735"
+  },
+  {
+   "code": "[6과16-02]",
+   "text": "다양한 진로가 과학과 관련됨을 알고, 자신의 진로를 과학과 관련지어 설명할 수 있다. <탐구 활동> • 우리의 진로에 영향을 미치는 과학적 요소 탐구하기",
+   "sourceId": "kr-ncic-science-pdf-2022",
+   "locator": "pdftotext line 1736"
+  },
+  {
+   "code": "[6국01-01]",
+   "text": "대화에서 생략된 내용을 추론하며 듣는다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국01-02]",
+   "text": "주장을 파악하고 이유나 근거가 타당한지 평가하며 듣는다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국01-03]",
+   "text": "주제와 관련하여 궁금한 내용을 질문하며 적극적으로 듣고 말한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국01-04]",
+   "text": "면담의 절차를 이해하고 상대와 매체를 고려하여 면담한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국01-05]",
+   "text": "자료를 선별하여 핵심 정보를 중심으로 내용을 구성하고 매체를 활용하여 발표한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국01-06]",
+   "text": "토의에 협력적으로 참여하며 서로의 의견을 비교하고 조정한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국01-07]",
+   "text": "절차와 규칙을 지키고 타당한 이유와 근거를 제시하며 토론한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국02-01]",
+   "text": "글의 구조를 고려하며 주제나 주장을 파악하고 글 내용을 요약한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국02-02]",
+   "text": "글에서 생략된 내용이나 함축된 표현을 문맥을 고려하여 추론한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국02-03]",
+   "text": "글이나 자료를 읽고 내용의 타당성과 표현의 적절성을 평가한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국02-04]",
+   "text": "문제 상황과 관련된 다양한 관점의 글을 읽고 이를 문제 해결에 활용한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국02-05]",
+   "text": "긍정적인 읽기 동기를 형성하고 적극적으로 읽기에 참여하는 태도를 기른다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국03-01]",
+   "text": "알맞은 내용을 선정하여 대상의 특성이 나타나게 설명하는 글을 쓴다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국03-02]",
+   "text": "적절한 근거를 사용하고 인용의 출처를 밝히며 주장하는 글을 쓴다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국03-03]",
+   "text": "체험한 일에 대한 감상을 나타내는 글을 쓴다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국03-04]",
+   "text": "독자와 매체를 고려하여 내용을 생성하고 표현하며 글을 쓴다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국03-05]",
+   "text": "쓰기 과정을 점검⋅조정하며 글을 쓰고, 글 전체를 대상으로 통일성 있게 고쳐 쓴다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국03-06]",
+   "text": "쓰기에 적극적으로 참여하며 자신의 글을 독자와 공유하는 태도를 지닌다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국04-01]",
+   "text": "음성 언어 및 문자 언어의 특성을 이해하고 다양한 매체 자료에서 표현 효과를 평가한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국04-02]",
+   "text": "표준어와 방언의 기능을 파악하고 언어 공동체와 국어생활과의 관계를 이해한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국04-03]",
+   "text": "고유어와 관용 표현의 쓰임과 가치를 이해하고 상황에 맞게 표현한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국04-04]",
+   "text": "문장 성분을 이해하고 호응 관계가 올바른 문장을 구성한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국04-05]",
+   "text": "글과 담화에 쓰인 시간 표현을 이해하고 상황에 맞게 표현한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국04-06]",
+   "text": "글과 담화에 쓰인 단어 및 문장, 띄어쓰기를 민감하게 살펴 바르게 고치는 태도를 지닌다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국05-01]",
+   "text": "작가의 의도를 생각하며 작품을 읽는다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국05-02]",
+   "text": "비유적 표현의 효과에 유의하여 작품을 감상한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국05-03]",
+   "text": "소설이나 극을 읽고 인물, 사건, 배경을 파악한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국05-04]",
+   "text": "인상적인 부분을 중심으로 작품에 대한 의견을 나눈다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국05-05]",
+   "text": "자신의 경험을 시, 소설, 극, 수필 등 적절한 갈래로 표현한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국05-06]",
+   "text": "작품을 읽고 자신의 삶과 연관 지어 성찰하는 태도를 지닌다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국06-01]",
+   "text": "정보 검색 도구를 활용하여 자신의 목적에 맞는 매체 자료를 찾는다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국06-02]",
+   "text": "뉴스 및 각종 정보 매체 자료의 신뢰성을 평가한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국06-03]",
+   "text": "적합한 양식과 수용자의 반응을 고려하여 복합양식 매체 자료를 제작하고 공유한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6국06-04]",
+   "text": "자신의 매체 이용 양상에 대해 성찰한다.",
+   "sourceId": "kr-moe-2022-33-annex5-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6도01-01]",
+   "text": "자주적인 삶에 대한 이해를 바탕으로 자신의 생활계획을 세우고 실천하여 주체적인 삶의 태도를 기른다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 462"
+  },
+  {
+   "code": "[6도01-02]",
+   "text": "생활 습관에 대한 성찰을 통해 자기 생활을 점검하고 올바른 계획을 세워 이를 실천한다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 464"
+  },
+  {
+   "code": "[6도01-03]",
+   "text": "자기가 하고 싶은 일을 선택할 때 도덕적 고려의 필요성을 알고 자신의 특기와 적성을 탐색하여 진로계획을 수립한다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 465"
+  },
+  {
+   "code": "[6도02-01]",
+   "text": "봉사의 의미와 중요성을 이해하고, 타인이 처한 상황과 환경에 대한 주의 깊은 관심을 바탕으로 봉사를 실천한다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 500"
+  },
+  {
+   "code": "[6도02-02]",
+   "text": "편견이 발생하는 이유를 탐색하여 해결 방안을 살펴보고, 다양성 존중을 바탕으로 다른 사람과 올바른 관계를 맺기 위한 실천 방안을 탐구한다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 502"
+  },
+  {
+   "code": "[6도02-03]",
+   "text": "인간과 인공지능 로봇 간의 다양한 관계를 파악하고 도덕에 기반을 둔 관계 형성의 필요 성을 탐구한다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 504"
+  },
+  {
+   "code": "[6도03-01]",
+   "text": "인권과 관련된 다양한 사례를 살펴보고 인권에 관한 감수성을 길러 이를 실천하려는 의지를 함양한다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 539"
+  },
+  {
+   "code": "[6도03-02]",
+   "text": "정의에 관한 관심을 토대로 공동체 규칙의 중요성을 살펴보고 직접 공정한 규칙을 고안 하며 기초적인 시민의식을 기른다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 541"
+  },
+  {
+   "code": "[6도03-03]",
+   "text": "통일과정과 통일 이후 사회의 여러 가지 상황을 예상하고 바람직한 통일과정과 통일 국가의 사회상을 제시한다",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 543"
+  },
+  {
+   "code": "[6도03-04]",
+   "text": "다른 나라 사람들이 처한 여러 가지 상황을 종합적으로 이해하고 해결 방안을 탐구하며 인류애를 기른다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 545"
+  },
+  {
+   "code": "[6도04-01]",
+   "text": "지구의 환경 위기 상황을 이해하고, 이를 극복하기 위한 다양한 방안을 찾아 자신의 일 상에서 실천하고자 노력한다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 578"
+  },
+  {
+   "code": "[6도04-02]",
+   "text": "지속가능한 삶의 의미를 탐구하고 미래 세대에 대한 책임을 강화하여 자연의 다양성을 존중하고 생산성을 유지할 수 있는 미래를 위한 실천 방안을 찾는다.",
+   "sourceId": "kr-ncic-moral-pdf-2022",
+   "locator": "pdftotext line 580"
+  },
+  {
+   "code": "[6미01-01]",
+   "text": "다양한 감각과 매체를 활용하여 자신과 대상을 탐색할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6미01-02]",
+   "text": "자신이나 주변 환경에서 찾은 감각적 특징, 느낌, 생각 등을 관련지어 나타낼 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6미01-03]",
+   "text": "주변 환경에 대한 민감한 태도로 대상과 상호 작용하며 새로운 의미를 발견할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6미01-04]",
+   "text": "이미지가 나타내는 의미를 비판적으로 이해하고 느낌과 생각을 전달하는 데 활용할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6미02-01]",
+   "text": "다양한 방법으로 아이디어를 연결하여 확장된 표현 주제로 발전시킬 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6미02-02]",
+   "text": "디지털 매체 등 다양한 표현 재료와 용구를 탐색하여 작품 제작에 활용할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6미02-03]",
+   "text": "조형 요소의 어울림을 통해 조형 원리를 이해하고 주제 표현에 연결할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6미02-04]",
+   "text": "주제 표현에 의지를 갖고 표현 과정을 돌아보며 작품을 발전시킬 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6미02-05]",
+   "text": "미술과 타 교과의 내용과 방법을 융합하는 활동을 자유롭게 시도할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6미03-01]",
+   "text": "미술 작품을 작품이 만들어진 시대적, 지역적 배경 등과 연결하여 이해할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6미03-02]",
+   "text": "미술 작품의 내용(소재, 주제 등)과 형식(재료와 용구, 표현 방법, 조형 요소와 원리 등) 을 분석하여 작품의 특징을 설명할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6미03-03]",
+   "text": "공동체의 미술 문화 활동에 관심을 가지고 참여하며 경험을 공유할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6미03-04]",
+   "text": "다양한 방법을 활용하여 작품을 감상하며 작품에 관한 서로 다른 관점을 존중할 수 있다.",
+   "sourceId": "kr-ncic-2022-art-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사01-01]",
+   "text": "우리나라 산지, 하천, 해안 지형의 위치를 확인하고 지형의 분포 특징을 탐구한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사01-02]",
+   "text": "독도의 지리적 특성과 독도에 대한 역사 기록을 바탕으로 영토로서 독도의 중요성을 이해 한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사02-01]",
+   "text": "우리나라의 계절별 기후 특징을 자료에서 탐구하고, 기후변화로 인한 자연재해의 심각성을 이해한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사02-02]",
+   "text": "우리나라의 지역별 인구 분포의 특징을 알아보고, 이에 따른 문제점과 해결 방안을 탐색 한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사03-01]",
+   "text": "일상 사례에서 법의 의미와 역할을 이해하고, 헌법에 규정된 인권이 일상생활에서 구현 되는 사례를 조사하여 인권 친화적 태도를 기른다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사03-02]",
+   "text": "일상생활에서 인권이 침해되는 사례를 찾아 그 해결 방안을 탐색하고, 인권을 보호하는 활동에 참여한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사04-01]",
+   "text": "선사 시대와 고조선의 유적과 유물을 활용하여 당시 사람들의 생활을 추론한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사04-02]",
+   "text": "역사 기록이나 유적과 유물에 나타난 고대 사람들의 생각과 생활을 추론한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사04-03]",
+   "text": "다양한 역사 자료를 활용하여 고려 시대 사회 모습과 사람들의 생활을 추론한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사05-01]",
+   "text": "조선 시대 사람들의 생각과 생활에 유교 문화가 미친 영향을 파악한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사05-02]",
+   "text": "조선 후기 사회⋅문화적 변화와 개항기 근대 문물 수용 과정에서 달라진 사람들의 생활을 이해한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사06-01]",
+   "text": "일제의 식민 통치와 이에 대한 저항이 사회와 생활에 미친 영향을 이해한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사06-02]",
+   "text": "8⋅15 광복과 6⋅25 전쟁이 사회와 생활에 미친 영향을 파악한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사07-01]",
+   "text": "분단으로 나타난 문제점과 분단과 관련된 장소를 평화의 장소로 만들려는 노력 등을 알아 보고, 평화 통일을 위해 우리가 할 수 있는 일을 탐색한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사07-02]",
+   "text": "민주화와 산업화로 인해 달라진 생활 문화를 사례를 들어 이해한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사08-01]",
+   "text": "민주주의에서 선거의 의미와 역할을 파악하고, 시민의 주권 행사를 위해 선거에 참여하는 태도를 기른다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사08-02]",
+   "text": "민주 국가에서 국회, 행정부, 법원이 하는 일에 대해 이해하고, 각 국가기관의 권력을 분립 하는 이유를 탐색한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사08-03]",
+   "text": "민주주의에서 미디어의 의미와 역할을 이해하고, 여러 가지 미디어의 내용을 비판적으로 분석하여 올바르게 이용하는 태도를 기른다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사09-01]",
+   "text": "세계를 표현하는 다양한 공간 자료의 특징을 이해하고, 지구본과 세계지도에서 위치를 표현하는 방법을 익힌다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사09-02]",
+   "text": "세계 주요 대륙과 대양을 파악하고, 우리나라 및 세계 여러 국가의 위치와 영토의 특징을 이해한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사10-01]",
+   "text": "세계의 여러 지역의 지형 경관을 살펴보고, 이를 통해 다양한 삶의 모습을 이해한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사10-02]",
+   "text": "에서 본격적으로 학습하고, 여기서는 위도(저위도, 고위도, 중위도)에 따른 일사량의 차이(밤낮의 길이), 북반구와 남반구의 계절 차이 정도를 파악하도록 한다. • 세계 여러 나라 중에서 국제적인 위상, 우리나라와의 관계 등을 고려하여 우리나라와 정치⋅ 경제⋅문화면에서 밀접한 관계를 맺고 있는 국가들을 사례로 선정할 수 있으며, 그 국가들의 위치와 영토를 파악하여 기초적인 지리 정보를 이해하도록 한다. • 생소한 지명들을 열거하고 이를 암기하기보다는 세계의 대륙과 대양, 여러 국가 등을 다양한 공간 도구를 통해 파악하도록 하며, 이를 통해 다양한 지도 읽기, 위치 표현 방법 등의 도 해력을 평가할 수 있다. (10) 세계의 자연환경",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사11-01]",
+   "text": "시장경제에서 가계와 기업의 역할을 이해하고, 근로자의 권리와 기업의 자유 및 사회적 책임을 탐색한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사11-02]",
+   "text": "경제성장이 우리 생활에 미치는 영향을 파악하고, 빠른 경제성장으로 발생한 문제의 해결 방안을 탐색한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사11-03]",
+   "text": "사례를 통해 무역의 의미를 이해하고, 국가 간 무역이 발생하는 이유를 탐구한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사12-01]",
+   "text": "세계의 인구 분포를 파악하고 여러 국가의 인구 특징을 탐구한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6사12-02]",
+   "text": "지구촌을 위협하는 다양한 문제들을 파악하고, 지속가능한 미래를 위한 해결 방안을 탐색 한다.",
+   "sourceId": "kr-ncic-2022-social-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6수01-01]",
+   "text": "덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다. 수의 범위와 올림, 버림, 반올림",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 967-967"
+  },
+  {
+   "code": "[6수01-02]",
+   "text": "실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 971-972"
+  },
+  {
+   "code": "[6수01-03]",
+   "text": "어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다. 약수와 배수",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 973-974"
+  },
+  {
+   "code": "[6수01-04]",
+   "text": "약수, 공약수, 최대공약수를 이해하고 구할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 978-978"
+  },
+  {
+   "code": "[6수01-05]",
+   "text": "배수, 공배수, 최소공배수를 이해하고 구할 수 있다. 분수의 덧셈과 뺄셈",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 979-979"
+  },
+  {
+   "code": "[6수01-06]",
+   "text": "크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 983-983"
+  },
+  {
+   "code": "[6수01-07]",
+   "text": "분모가 다른 분수의 크기를 비교하고 그 방법을 설명할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 984-984"
+  },
+  {
+   "code": "[6수01-08]",
+   "text": "분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다. 분수의 곱셈과 나눗셈",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 985-985"
+  },
+  {
+   "code": "[6수01-09]",
+   "text": "분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 989-989"
+  },
+  {
+   "code": "[6수01-10]",
+   "text": "‘(자연수) ÷ (자연수)’에서 나눗셈의 몫을 분수로 나타낼 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 990-990"
+  },
+  {
+   "code": "[6수01-11]",
+   "text": "분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다. 분수와 소수의 관계",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 991-991"
+  },
+  {
+   "code": "[6수01-12]",
+   "text": "분수와 소수의 관계를 이해하고 크기를 비교하며 그 방법을 설명할 수 있다. 소수의 곱셈과 나눗셈",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 995-995"
+  },
+  {
+   "code": "[6수01-13]",
+   "text": "소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 999-999"
+  },
+  {
+   "code": "[6수01-14]",
+   "text": "‘(자연수) ÷ (자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1000-1000"
+  },
+  {
+   "code": "[6수01-15]",
+   "text": "소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다. 25 수학과 교육과정",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1001-1001"
+  },
+  {
+   "code": "[6수02-01]",
+   "text": "한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다. 비와 비율",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1055-1056"
+  },
+  {
+   "code": "[6수02-02]",
+   "text": "두 양의 크기를 비교하는 상황을 통해 비의 개념을 이해하고, 두 양의 관계를 비로 나타낼 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1060-1061"
+  },
+  {
+   "code": "[6수02-03]",
+   "text": "비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다. 비례식과 비례배분",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1062-1062"
+  },
+  {
+   "code": "[6수02-04]",
+   "text": "비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1066-1066"
+  },
+  {
+   "code": "[6수02-05]",
+   "text": "비례배분을 알고, 주어진 양을 비례배분 할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1067-1067"
+  },
+  {
+   "code": "[6수03-01]",
+   "text": "도형의 합동을 이해하고, 합동인 도형의 성질을 탐구하고 설명할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1106-1106"
+  },
+  {
+   "code": "[6수03-02]",
+   "text": "실생활과 연결하여 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다. 직육면체와 정육면체",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1107-1107"
+  },
+  {
+   "code": "[6수03-03]",
+   "text": "직육면체와 정육면체를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1111-1111"
+  },
+  {
+   "code": "[6수03-04]",
+   "text": "직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다. 각기둥과 각뿔",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1112-1112"
+  },
+  {
+   "code": "[6수03-05]",
+   "text": "각기둥과 각뿔을 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1116-1116"
+  },
+  {
+   "code": "[6수03-06]",
+   "text": "각기둥의 전개도를 그릴 수 있다. 원기둥, 원뿔, 구",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1117-1117"
+  },
+  {
+   "code": "[6수03-07]",
+   "text": "원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1121-1121"
+  },
+  {
+   "code": "[6수03-08]",
+   "text": "원기둥의 전개도를 그릴 수 있다. 입체도형의 공간 감각",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1122-1122"
+  },
+  {
+   "code": "[6수03-09]",
+   "text": "쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1126-1126"
+  },
+  {
+   "code": "[6수03-10]",
+   "text": "쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다. 28 공통 교육과정 다각형의 둘레와 넓이",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1127-1128"
+  },
+  {
+   "code": "[6수03-11]",
+   "text": "평면도형의 둘레를 이해하고, 기본적인 평면도형의 둘레를 구할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1139-1139"
+  },
+  {
+   "code": "[6수03-12]",
+   "text": "넓이 단위 1cm², 1m², 1km²를 알며, 그 관계를 이해한다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1140-1140"
+  },
+  {
+   "code": "[6수03-13]",
+   "text": "직사각형과 정사각형의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1141-1141"
+  },
+  {
+   "code": "[6수03-14]",
+   "text": "평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다. 원주율과 원의 넓이",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1142-1143"
+  },
+  {
+   "code": "[6수03-15]",
+   "text": "여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1147-1148"
+  },
+  {
+   "code": "[6수03-16]",
+   "text": "원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다. 입체도형의 겉넓이와 부피",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1149-1149"
+  },
+  {
+   "code": "[6수03-17]",
+   "text": "직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1153-1153"
+  },
+  {
+   "code": "[6수03-18]",
+   "text": "부피 단위 1cm³, 1m³를 알며, 그 관계를 이해한다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1154-1154"
+  },
+  {
+   "code": "[6수03-19]",
+   "text": "직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1155-1155"
+  },
+  {
+   "code": "[6수04-01]",
+   "text": "평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1222-1222"
+  },
+  {
+   "code": "[6수04-02]",
+   "text": "자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1223-1223"
+  },
+  {
+   "code": "[6수04-03]",
+   "text": "탐구 문제를 설정하고, 그에 맞는 자료를 수집, 정리하여 적절한 그래프로 나타내고 해석할 수 있다. 가능성",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1224-1225"
+  },
+  {
+   "code": "[6수04-04]",
+   "text": "사건이 일어날 가능성을 말로 표현하고 비교할 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1229-1229"
+  },
+  {
+   "code": "[6수04-05]",
+   "text": "사건이 일어날 가능성을 수로 나타낼 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1230-1230"
+  },
+  {
+   "code": "[6수04-06]",
+   "text": "자료를 이용하여 가능성을 예상하고, 가능성에 근거하여 적절한 판단을 내릴 수 있다.",
+   "sourceId": "kr-ncic-math-pdf-2022",
+   "locator": "pdftotext lines 1231-1231"
+  },
+  {
+   "code": "[6실01-01]",
+   "text": "아동기의 발달 특징을 이해하고 성장발달에 필요한 조건과 방법을 탐색한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 519-535 and section (1) achievement-standard commentary"
+  },
+  {
+   "code": "[6실01-02]",
+   "text": "건강한 발달을 위한 자기 관리 방법을 탐색하고, 일상생활 속에서 올바른 생활습관과 태도를 갖도록 계획하여 실천한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 519-535 and section (1) achievement-standard commentary"
+  },
+  {
+   "code": "[6실01-03]",
+   "text": "건강한 가정생활을 위해 가족원 모두에게 다양한 요구가 있음을 이해하여 서로에 대한 배려와 돌봄을 실천한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 519-535 and section (1) achievement-standard commentary"
+  },
+  {
+   "code": "[6실01-04]",
+   "text": "균형 잡힌 식사의 중요성과 조건을 탐색하여 자신의 식습관을 검토해 보고 건강한 식습관 형성에 적용한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 519-535 and section (1) achievement-standard commentary"
+  },
+  {
+   "code": "[6실01-05]",
+   "text": "옷의 기능을 이해하여 평소 자신의 옷차림을 살펴보고 건강하고 적절한 옷 입기를 실천한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 519-535 and section (1) achievement-standard commentary"
+  },
+  {
+   "code": "[6실01-06]",
+   "text": "가정일을 수행하는 과정에서 일의 가치와 중요성을 이해하고, 가정생활을 유지하는 데 필요한 가정일의 종류를 탐색한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 519-535 and section (1) achievement-standard commentary"
+  },
+  {
+   "code": "[6실01-07]",
+   "text": "직업의 필요성을 이해하고 적성, 흥미, 성격에 따라 진로 발달 계획을 세우고 주도적으로 탐색한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 519-535 and section (1) achievement-standard commentary"
+  },
+  {
+   "code": "[6실02-01]",
+   "text": "시간이나 용돈과 같은 생활자원이 제한되어 있음을 이해하고, 생활자원의 사용가치를 높 이는 방법을 탐색한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 576-600 and section (2) achievement-standard commentary"
+  },
+  {
+   "code": "[6실02-02]",
+   "text": "생활자원 관리의 필요성을 인식하고, 생활자원의 합리적인 보관과 활용방법을 익힌다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 576-600 and section (2) achievement-standard commentary"
+  },
+  {
+   "code": "[6실02-03]",
+   "text": "생활자원의 올바른 사용이 가정과 환경에 도움이 됨을 이해하고 재활용, 재사용 등 환경을 고려한 관리 방법을 실천한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 576-600 and section (2) achievement-standard commentary"
+  },
+  {
+   "code": "[6실02-04]",
+   "text": "식재료 생산과 선택의 중요성을 인식하고 여러 식재료의 고유하고 다양한 맛을 경험하여 자신의 식사에 적용한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 576-600 and section (2) achievement-standard commentary"
+  },
+  {
+   "code": "[6실02-05]",
+   "text": "음식의 조리과정을 체험하여 자기 간식이나 식사를 스스로 마련하는 식생활을 실천한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 576-600 and section (2) achievement-standard commentary"
+  },
+  {
+   "code": "[6실02-06]",
+   "text": "우리나라 밥상차림을 이해하고, 함께 식사하는 즐거움을 경험하면서 이 과정에서 식사 예절을 실천한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 576-600 and section (2) achievement-standard commentary"
+  },
+  {
+   "code": "[6실02-07]",
+   "text": "의생활 용품이 만들어지는 과정을 탐색하여 옷이나 생활용품이 어떻게 구성되는지를 설명 한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 576-600 and section (2) achievement-standard commentary"
+  },
+  {
+   "code": "[6실02-08]",
+   "text": "다양한 도구와 재료를 활용하여 간단한 생활용품을 만들어 보면서 직접 만들어 쓰는 즐거움과 창의적 태도를 가진다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 576-600 and section (2) achievement-standard commentary"
+  },
+  {
+   "code": "[6실02-09]",
+   "text": "간단한 옷의 수선 등 의생활과 관련된 문제를 스스로 해결하려는 태도를 가진다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 576-600 and section (2) achievement-standard commentary"
+  },
+  {
+   "code": "[6실02-10]",
+   "text": "자신의 생활공간을 쾌적하고 위생적으로 관리하는 것의 중요성을 알고, 정리정돈과 청소 및 쓰레기 처리의 방법을 익혀 실천한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 576-600 and section (2) achievement-standard commentary"
+  },
+  {
+   "code": "[6실02-11]",
+   "text": "생태 지향적 삶을 위해 자신의 의식주 생활에서 할 수 있는 구체적인 행동을 계획하여 실천한다. 13 실과(기술⋅가정)/정보과 교육과정",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 576-600 and section (2) achievement-standard commentary"
+  },
+  {
+   "code": "[6실03-01]",
+   "text": "발명의 의미를 이해하고, 일상생활을 바꾼 발명품을 탐색하여 발명과 기술에 대한 중요성과 가치를 인식한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 656-668 and section (3) achievement-standard commentary"
+  },
+  {
+   "code": "[6실03-02]",
+   "text": "발명사고기법과 기술적 문제 해결 과정을 이해하고, 다양한 재료를 활용하여 생활 속 문제를 해결할 수 있는 창의적인 제품을 구상하고 만들어 봄으로써 실천적 태도를 갖는다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 656-668 and section (3) achievement-standard commentary"
+  },
+  {
+   "code": "[6실03-03]",
+   "text": "발명과 특허의 관계를 이해하고, 특허 침해 사례를 통하여 지식재산권의 중요성을 인식 하여 올바른 방법으로 활용한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 656-668 and section (3) achievement-standard commentary"
+  },
+  {
+   "code": "[6실03-04]",
+   "text": "수송의 의미와 수송 수단의 발달과정에 대한 이해를 바탕으로 생활 속 다양한 수송 수단을 탐색한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 656-668 and section (3) achievement-standard commentary"
+  },
+  {
+   "code": "[6실03-05]",
+   "text": "수송 수단의 구성 요소를 이해하고, 친환경 에너지를 적용한 다양한 수송 수단의 시제품을 만들어 수송기술의 가치를 인식한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 656-668 and section (3) achievement-standard commentary"
+  },
+  {
+   "code": "[6실04-01]",
+   "text": "친환경 건설 구조물을 이해하고, 생활 속 건설 구조물을 탐색하여 간단한 구조물을 체험 하면서 건설기술에 대한 가치를 인식한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 706-730 and section (4) achievement-standard commentary"
+  },
+  {
+   "code": "[6실04-02]",
+   "text": "생활 속 디지털 기술의 중요성을 이해하고, 디지털 기기와 디지털 콘텐츠 저작 도구를 사용하여 발표 자료를 만들어 보면서 디지털 기기의 활용 능력을 기른다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 706-730 and section (4) achievement-standard commentary"
+  },
+  {
+   "code": "[6실04-03]",
+   "text": "제작한 발표 자료를 사이버 공간에 공유하고, 건전한 정보기기의 활용을 실천한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 706-730 and section (4) achievement-standard commentary"
+  },
+  {
+   "code": "[6실04-04]",
+   "text": "로봇의 개념과 구조를 이해하고, 생활 속 로봇 기능을 체험하여 로봇의 중요성을 인식한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 706-730 and section (4) achievement-standard commentary"
+  },
+  {
+   "code": "[6실04-05]",
+   "text": "로봇의 종류와 활용 사례를 통해 작동 원리를 이해하고, 로봇에 대한 관심과 흥미를 가진다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 706-730 and section (4) achievement-standard commentary"
+  },
+  {
+   "code": "[6실04-06]",
+   "text": "로봇의 융합 기술을 이해하고, 간단한 로봇을 만들어 코딩과 프로그램을 적용하여 동작시키는 체험을 통해 융합 기술의 가치를 인식한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 706-730 and section (4) achievement-standard commentary"
+  },
+  {
+   "code": "[6실04-07]",
+   "text": "생활 속 동식물 자원을 활용 목적에 따라 분류하고 이와 관련된 다양한 생명기술을 탐색 한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 706-730 and section (4) achievement-standard commentary"
+  },
+  {
+   "code": "[6실04-08]",
+   "text": "생활 속 동식물을 기르고 가꾸는 방법을 알고, 동식물을 기르고 가꾸는 체험을 통해 생태 존중감을 가진다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 706-730 and section (4) achievement-standard commentary"
+  },
+  {
+   "code": "[6실04-09]",
+   "text": "동식물 자원의 친환경 농업 사례를 통해 지속가능한 농업이 순환되고 있음을 인식하고 농업의 미래가치를 인식한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 706-730 and section (4) achievement-standard commentary"
+  },
+  {
+   "code": "[6실04-10]",
+   "text": "생활 속에서 농업활동과 관련된 모습을 분석하고 이에 따른 농업활동을 체험하여 농업에 대한 관심을 두고 이를 생활 속에서 실천한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 706-730 and section (4) achievement-standard commentary"
+  },
+  {
+   "code": "[6실04-11]",
+   "text": "농업과 농촌의 다원적인 역할과 가치를 이해하고 미래 농업과 관련된 다양한 직업 세계를 탐색한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 706-730 and section (4) achievement-standard commentary"
+  },
+  {
+   "code": "[6실05-01]",
+   "text": "컴퓨터를 활용한 생활 속 문제해결 사례를 탐색하고 일상생활 속 문제를 해결하기 위한 알고리즘을 다양한 방법으로 표현한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 794-803 and section (5) achievement-standard commentary"
+  },
+  {
+   "code": "[6실05-02]",
+   "text": "컴퓨터에게 명령하는 방법을 체험하고, 주어진 문제를 해결하는 프로그램을 작성한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 794-803 and section (5) achievement-standard commentary"
+  },
+  {
+   "code": "[6실05-03]",
+   "text": "실생활의 문제를 해결하는 프로그램을 협력하여 작성하고, 산출물을 타인과 공유한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 794-803 and section (5) achievement-standard commentary"
+  },
+  {
+   "code": "[6실05-04]",
+   "text": "디지털 데이터와 아날로그 데이터의 특징을 이해하고, 인공지능에 활용할 수 있는 데이터의 유형이나 형태를 탐색한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 794-803 and section (5) achievement-standard commentary"
+  },
+  {
+   "code": "[6실05-05]",
+   "text": "인공지능이 만들어지는 과정을 체험하고, 인공지능이 사회에 미치는 영향을 탐색한다.",
+   "sourceId": "kr-ncic-practical-arts-pdf-2022",
+   "locator": "PDF text extraction lines around 794-803 and section (5) achievement-standard commentary"
+  },
+  {
+   "code": "[6영01-01]",
+   "text": "간단한 단어, 어구, 문장을 듣고 강세, 리듬, 억양을 식별한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영01-02]",
+   "text": "간단한 단어, 어구, 문장을 강세, 리듬, 억양에 맞게 소리 내어 읽는다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영01-03]",
+   "text": "간단한 단어, 어구, 문장의 의미를 이해한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영01-04]",
+   "text": "일상생활 주제에 관한 담화나 글의 세부 정보를 파악한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영01-05]",
+   "text": "일상생활 주제에 관한 담화나 글의 중심 내용을 파악한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영01-06]",
+   "text": "일상생활 주제에 관한 담화나 글에서 일이나 사건의 순서를 파악한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영01-07]",
+   "text": "적절한 전략을 활용하여 일상생활 주제에 관한 담화나 글을 듣거나 읽는다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영01-08]",
+   "text": "다양한 매체로 표현된 담화나 글을 흥미와 자신감을 가지고 듣거나 읽는다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영01-09]",
+   "text": "시, 노래, 이야기를 공감하며 듣거나 읽는다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영01-10]",
+   "text": "일상생활 주제나 문화에 관한 담화나 글을 포용의 태도로 듣거나 읽는다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영02-01]",
+   "text": "간단한 단어, 어구, 문장을 강세, 리듬, 억양에 맞게 말한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영02-02]",
+   "text": "실물, 그림, 동작 등을 보고 간단한 단어, 어구, 문장으로 말하거나 쓴다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영02-03]",
+   "text": "알파벳 대소문자와 문장 부호를 문장에서 바르게 사용한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영02-04]",
+   "text": "주변 사람이나 사물을 간단한 문장으로 소개하거나 묘사한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영02-05]",
+   "text": "주변 장소나 위치, 행동 순서나 방법을 간단한 문장으로 설명한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영02-06]",
+   "text": "자신의 감정이나 의견, 경험이나 계획을 간단한 문장으로 표현한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영02-07]",
+   "text": "일상생활 주제에 관한 담화나 글의 세부 정보를 간단한 문장으로 묻거나 답한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영02-08]",
+   "text": "예시문을 참고하여 목적에 맞는 간단한 글을 쓴다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영02-09]",
+   "text": "적절한 매체와 전략을 활용하여 창의적으로 의미를 생성하고 표현한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6영02-10]",
+   "text": "의사소통 활동에 흥미와 자신감을 가지고 참여하여 협력적으로 수행한다.",
+   "sourceId": "kr-ncic-2022-english-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6음01-01]",
+   "text": "바른 주법과 표현 기법을 익혀 노래나 악기로 느낌을 담아 연주한다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6음01-02]",
+   "text": "음악 요소를 살려 노래나 악기로 발표하고 과정을 돌아본다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6음01-03]",
+   "text": "소리의 어울림을 생각하며 다양한 방법으로 함께 표현한다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6음01-04]",
+   "text": "간단한 형태의 연주를 준비하여 생활 속 음악 활동에 참여한다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6음02-01]",
+   "text": "음악을 듣고 음악의 요소를 감지하며 구별한다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6음02-02]",
+   "text": "다양한 문화권의 음악을 듣고 음악적 특징과 음악의 간단한 구성을 인식한다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6음02-03]",
+   "text": "다양한 종류의 음악을 듣고 음악의 배경과 활용을 설명한다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6음02-04]",
+   "text": "생활 속에서 음악을 찾아 들으며 아름다움을 느끼고 공감한다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6음02-05]",
+   "text": "우리나라 음악 문화유산을 찾아 듣고 국악의 가치를 인식한다. 14 공통 교육과정",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6음03-01]",
+   "text": "느낌과 아이디어를 떠올려 여러 매체나 방법으로 자신감 있게 표현한다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6음03-02]",
+   "text": "기초적인 기보를 활용하여 간단한 조건에 따라 악곡의 일부를 바꾼다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6음03-03]",
+   "text": "음악의 요소를 활용하여 간단한 음악을 만든다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6음03-04]",
+   "text": "생활 주변 상황이나 이야기를 활용하여 음악을 만들며 열린 태도를 갖는다.",
+   "sourceId": "kr-ncic-2022-music-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체01-01]",
+   "text": "건강 체력과 운동 체력의 의미와 요소를 파악하고 다양한 운동 방법을 탐색한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체01-02]",
+   "text": "건강 체력과 운동 체력을 측정하고 자신의 체력 수준에 맞는 운동을 시도한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체01-03]",
+   "text": "성장 발달의 의미와 특성을 이해하고 운동과의 관계를 파악한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체01-04]",
+   "text": "운동 및 생활 속 위험 상황, 성장 발달을 저해하는 생활 방식의 문제점을 파악하고 예방 및 대처 방법을 익혀 안전하게 활동한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체01-05]",
+   "text": "체력 운동을 끈기 있게 규칙적으로 수행한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체01-06]",
+   "text": "성장과 발달 과정에서 나타나는 신체적, 정서적, 사회적 특성과 차이를 공감하고 위험 상황에 침착하게 대처한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체02-01]",
+   "text": "기술형 스포츠의 의미와 유형을 파악한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체02-02]",
+   "text": "기술형 스포츠 유형별로 기본 움직임 기술을 응용한 기본 기능을 파악하고 수행한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체02-03]",
+   "text": "기술형 스포츠 유형별 활동 방법을 파악하고 기본 전략을 게임 활동에서 수행한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체02-04]",
+   "text": "전략형 스포츠의 의미와 유형을 파악한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체02-05]",
+   "text": "전략형 스포츠 유형별로 기본 움직임 기술을 응용한 기본 기능을 파악하고 수행한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체02-06]",
+   "text": "전략형 스포츠 유형별 활동 방법을 파악하고 기본 전략을 게임 활동에서 수행한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체02-07]",
+   "text": "생태형 스포츠의 의미와 유형을 파악한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체02-08]",
+   "text": "생태형 스포츠 유형별로 기본 움직임 기술을 응용한 기본 기능을 파악하고 수행한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체02-09]",
+   "text": "생태형 스포츠 유형별 활동 방법을 파악하고 기본 전략을 게임 활동에서 수행한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체02-10]",
+   "text": "스포츠 활동에 참여하며 목표를 달성하기 위한 의지를 실천하고 상대의 기술을 인정한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체02-11]",
+   "text": "스포츠 활동에 참여하며 팀원과 협력하고 구성원을 배려한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체02-12]",
+   "text": "스포츠 활동에 참여하며 환경을 아끼고 감사하는 태도를 실천한다. 19 체육과 교육과정",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체03-01]",
+   "text": "표현 활동의 의미와 유형을 파악한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체03-02]",
+   "text": "스포츠 표현에서 움직임 기술을 응용한 기본 동작을 파악하고 표현한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체03-03]",
+   "text": "스포츠 표현의 기본 동작을 다양하게 구성하여 발표하고 감상한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체03-04]",
+   "text": "전통 표현에서 움직임 기술을 응용한 기본 동작을 파악하고 표현한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체03-05]",
+   "text": "전통 표현의 기본 동작을 다양하게 구성하여 발표하고 감상한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체03-06]",
+   "text": "현대 표현에서 움직임 기술을 응용한 기본 동작을 파악하고 표현한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체03-07]",
+   "text": "현대 표현의 기본 동작을 다양하게 구성하여 발표하고 감상한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  },
+  {
+   "code": "[6체03-08]",
+   "text": "다양한 표현 활동 유형을 수용하고, 움직임 표현의 아름다움을 추구한다.",
+   "sourceId": "kr-ncic-2022-physical-education-pdf",
+   "locator": "pattern-match"
+  }
+ ]
+}
