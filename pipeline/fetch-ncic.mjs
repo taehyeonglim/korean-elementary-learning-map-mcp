@@ -38,6 +38,54 @@ export function seedSourceMap(curriculaDoc) {
   return map;
 }
 
+export function diffSources(entries, computedHashes) {
+  const changed = [];
+  const unreachable = [];
+  for (const [id, entry] of Object.entries(entries)) {
+    const actual = computedHashes.get(id);
+    if (!actual) { unreachable.push({ id }); continue; }
+    if (entry.sha256 && entry.sha256 !== actual) {
+      changed.push({ id, recorded: entry.sha256, actual });
+    }
+  }
+  return { changed, unreachable };
+}
+
+async function runCheck() {
+  const curriculaDoc = JSON.parse(readFileSync(curriculaPath, 'utf8'));
+  const needed = neededSourceIds(curriculaDoc);
+  const sources = loadSources();
+  const computed = new Map();
+  for (const id of needed) {
+    const url = sources.entries[id]?.url;
+    if (!url) { computed.set(id, null); continue; }
+    console.error(`점검: ${id}`);
+    try {
+      const response = await fetch(url);
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const buffer = Buffer.from(await response.arrayBuffer());
+      if (!isPdf(buffer)) throw new Error('PDF 아님');
+      computed.set(id, createHash('sha256').update(buffer).digest('hex'));
+    } catch {
+      computed.set(id, null);
+    }
+  }
+  const { changed, unreachable } = diffSources(sources.entries, computed);
+  if (!changed.length && !unreachable.length) {
+    console.error(`✓ 원본 ${needed.length}종 변경 없음`);
+    return;
+  }
+  if (changed.length) {
+    console.error(`⚠ 개정 의심 — 해시 변경 ${changed.length}종:`);
+    for (const c of changed) console.error(`  - ${c.id}: 기록 ${c.recorded.slice(0, 12)}… → 현재 ${c.actual.slice(0, 12)}…`);
+  }
+  if (unreachable.length) {
+    console.error(`✗ 다운로드 실패(개정 아님 — URL·네트워크 확인) ${unreachable.length}종:`);
+    for (const u of unreachable) console.error(`  - ${u.id}`);
+  }
+  process.exit(1);
+}
+
 function loadSources() {
   if (!existsSync(sourcesPath)) return { entries: {} };
   return JSON.parse(readFileSync(sourcesPath, 'utf8'));
@@ -48,6 +96,10 @@ function saveSources(sources) {
 }
 
 async function main() {
+  if (process.argv.includes('--check')) {
+    await runCheck();
+    return;
+  }
   const curriculaDoc = JSON.parse(readFileSync(curriculaPath, 'utf8'));
   const needed = neededSourceIds(curriculaDoc);
   const sources = loadSources();

@@ -262,6 +262,12 @@ npm run pipeline:extract   # 코드 패턴 매칭으로 원문 절취 (실패분
 npm run pipeline:verify    # 620건 전수 검증 + manifest 해시 기록
 ```
 
+## 원본 개정 감지
+
+매월 1일 GitHub Actions([revision-check](.github/workflows/revision-check.yml))가 NCIC 원본
+PDF 12종을 새로 내려받아 기록된 SHA-256과 대조하고, 변경이 감지되면 `revision-alert` 라벨의
+이슈를 자동 생성합니다. 수동 점검: `node pipeline/fetch-ncic.mjs --check` — 어떤 파일도 쓰지 않습니다.
+
 ## 개발
 
 ```bash
