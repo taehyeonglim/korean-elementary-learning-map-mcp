@@ -67,6 +67,20 @@ macOS: `~/Library/Application Support/Claude/claude_desktop_config.json` · Wind
 
 저장 후 Claude Desktop을 재시작하면 도구 9종이 로드됩니다.
 
+### Codex CLI
+
+```bash
+codex mcp add curriculum-kr -- npx -y korean-elementary-learning-map-mcp
+```
+
+또는 `~/.codex/config.toml`에 직접 추가:
+
+```toml
+[mcp_servers.curriculum-kr]
+command = "npx"
+args = ["-y", "korean-elementary-learning-map-mcp"]
+```
+
 ### 기타 MCP 클라이언트 (Cursor 등)
 
 stdio 방식 MCP 서버를 지원하는 모든 클라이언트에서 동일한 형태로 등록됩니다:
