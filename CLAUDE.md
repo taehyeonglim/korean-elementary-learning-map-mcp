@@ -8,6 +8,7 @@
 - `npm run pipeline:verify` — 원문 620건 전수 게이트 + manifest 해시 기록 (**데이터 변경 후 필수**)
 - `npm run pipeline:fetch` / `pipeline:extract` — NCIC PDF 12종 다운로드(.cache/, git 미추적) / 원문 추출 (재현용 — 산출물은 커밋되어 있음, `brew install poppler` 필요)
 - `node src/cli.mjs` — 서버 직접 실행 (initialize JSON-RPC 파이프로 스모크 가능)
+- `node pipeline/fetch-ncic.mjs --check` — 원본 개정 무기록 점검 (개정 의심/다운로드 실패 구분, 매월 1일 revision-check 워크플로가 자동 실행·이슈 생성)
 
 ## 규칙
 
