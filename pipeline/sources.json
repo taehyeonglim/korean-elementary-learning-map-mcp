@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "kr-moe-2022-33-annex15-pdf": {
+      "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003571&orgType=ogi4",
+      "sha256": "5fe191f258d11cc77741c57cfb16324b26d5db14649809cc694dcbcd4662adee",
+      "bytes": 1152492,
+      "downloadedAt": "2026-07-28T09:13:20.923Z"
+    },
+    "kr-moe-2022-33-annex5-pdf": {
+      "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003553&orgType=ogi4",
+      "sha256": "5c30ae42a973a8f912bae156b160cd16d56636b3a64af84c3bdc378c9b482544",
+      "bytes": 2078590,
+      "downloadedAt": "2026-07-28T09:13:21.030Z"
+    },
+    "kr-ncic-2022-art-pdf": {
+      "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003555&orgType=ogi4",
+      "sha256": "b47363c9a1060b00777c6de555d972b509b64b886d7beca89460a552a33c77b2",
+      "bytes": 1983114,
+      "downloadedAt": "2026-07-28T09:13:21.229Z"
+    },
+    "kr-ncic-2022-english-pdf": {
+      "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003794&orgType=ogi4",
+      "sha256": "596d13897b002a4279a3e21f16396bdae7ac74988450f45fb348f87af943f92a",
+      "bytes": 2313266,
+      "downloadedAt": "2026-07-28T09:13:21.306Z"
+    },
+    "kr-ncic-2022-music-pdf": {
+      "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003561&orgType=ogi4",
+      "sha256": "db2d03b4e2accfd442ca1297b84e43061feb1422659914e486e27f7b555f7bd6",
+      "bytes": 2337694,
+      "downloadedAt": "2026-07-28T09:13:21.376Z"
+    },
+    "kr-ncic-2022-physical-education-pdf": {
+      "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003695&orgType=ogi4",
+      "sha256": "49cdef2bbcdf1decb796204ab66a0b6a308cd2903ead7168dde892b1f48cf2fb",
+      "bytes": 2371909,
+      "downloadedAt": "2026-07-28T09:13:21.436Z"
+    },
+    "kr-ncic-2022-social-pdf": {
+      "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003800&orgType=ogi4",
+      "sha256": "a852e8da3e6aea7d1c95690dcae140be02e014b779ac2e5cc0801200cfb16923",
+      "bytes": 4332996,
+      "downloadedAt": "2026-07-28T09:13:21.542Z"
+    },
+    "kr-ncic-2026-1-annex15-pdf": {
+      "url": "https://ncic.re.kr/inv/org/download.do?year=2026&seq=10004214&orgType=ogi4",
+      "sha256": "39954a4b5605b0ee691bd1a13e8207568ecb9079c97cdd6bf4ef490a7b7a41c6",
+      "bytes": 1449216,
+      "downloadedAt": "2026-07-28T09:13:21.766Z"
+    },
+    "kr-ncic-math-pdf-2022": {
+      "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003559&orgType=ogi4",
+      "sha256": "ba7c7c63ad31ba0fd32e5eb8148d696dd73288acce111495c593298112f8f840",
+      "bytes": 1938993,
+      "downloadedAt": "2026-07-28T09:13:22.156Z"
+    },
+    "kr-ncic-moral-pdf-2022": {
+      "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003738&orgType=ogi4",
+      "sha256": "0682710d786a0be26efdfbd835195e4871c71bc7c3c11f71427c7087c07a850e",
+      "bytes": 1412105,
+      "downloadedAt": "2026-07-28T09:13:22.370Z"
+    },
+    "kr-ncic-practical-arts-pdf-2022": {
+      "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003781&orgType=ogi4",
+      "sha256": "842077c76b311f23d57e6e749a8e4ffbb3d59d37628c1646531301022cc36bfd",
+      "bytes": 2956125,
+      "downloadedAt": "2026-07-28T09:13:22.441Z"
+    },
+    "kr-ncic-science-pdf-2022": {
+      "url": "https://ncic.re.kr/inv/org/download.do?year=2022&seq=10003551&orgType=ogi4",
+      "sha256": "0cf53427691d54366d6805767c428a15b0e817580807b4354947de7e3b58b738",
+      "bytes": 2663278,
+      "downloadedAt": "2026-07-28T09:13:22.516Z"
+    }
+  }
+}
