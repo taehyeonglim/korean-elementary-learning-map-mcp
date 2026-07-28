@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.taehyeonglim/korean-elementary-learning-map-mcp",
+  "description": "한국 초등 2022 개정 교육과정 학습 그래프 MCP 서버 (성취기준 620 · 원문 수록 · 주제 1,956 · 선수관계 1,894)",
+  "repository": {
+    "url": "https://github.com/taehyeonglim/korean-elementary-learning-map-mcp",
+    "source": "github"
+  },
+  "version": "0.5.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "korean-elementary-learning-map-mcp",
+      "version": "0.5.1",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
