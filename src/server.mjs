@@ -4,12 +4,14 @@ import { normalizeCode } from './data-store.mjs';
 import {
   normalizeText,
   searchStandards,
+  searchStandardTexts,
   searchTopics,
   suggestSimilar,
 } from './search.mjs';
 import { directEdges, learningPath } from './graph.mjs';
+import { buildRoadmap } from './roadmap.mjs';
 
-const SERVER_INFO = { name: 'korean-elementary-learning-map', version: '0.4.0' };
+const SERVER_INFO = { name: 'korean-elementary-learning-map', version: '0.5.0' };
 
 function emptyHint(store) {
   const subjects = store.curricula.map((c) => c.subjectKorean).join(', ');
@@ -33,7 +35,7 @@ function aboutText(store) {
     `- 데이터 릴리스: ${taxonomyVersion}`,
     `- 수량: 교육과정 ${counts.curricula} · 성취기준 ${counts.standards} · 주제 ${counts.topics} · 선수관계 ${counts.dependencies} · 클러스터 ${counts.clusters}`,
     '- 라이선스: MIT (저장소 작성 산출물 기준). 인용된 공식 교육과정 문서는 국가 공표 공공 자료이다.',
-    '- 성취기준 공식 원문은 수록하지 않는다. 코드·위치·출처 증거와 독자 작성 요약만 담는다.',
+    '- 성취기준 공식 원문을 수록한다. 원문은 교육부 공표 공공저작물(저작권법 제24조의2)로서 출처(NCIC 공개 PDF)를 표기해 이용한다.',
     '- 교육부·국가교육위원회·NCIC의 공식 산출물이 아니며, 개별 학습자를 진단하지 않는다.',
     '- 선수 관계는 이 릴리스 모델의 추천 구조이며 보편적 학습 순서 주장이 아니다.',
     '- 출처·방법론: https://github.com/DECK6/korean-elementary-learning-map',
@@ -118,7 +120,7 @@ export function createServer(store) {
         id: topic.id,
         titleKorean: topic.titleKorean,
       }));
-      return ok({ ...standard, linkedTopics });
+      return ok({ ...standard, officialText: store.textsByCode.get(standard.code) ?? null, linkedTopics });
     }
   );
 
@@ -139,6 +141,26 @@ export function createServer(store) {
     },
     async (args) => {
       const result = searchTopics(store, args);
+      if (result.total === 0) result.hint = emptyHint(store);
+      return ok(result);
+    }
+  );
+
+  server.registerTool(
+    'search_standard_text',
+    {
+      title: '성취기준 원문 검색',
+      description:
+        '성취기준 공식 원문 전문에서 키워드를 검색해 코드와 매칭 스니펫을 반환한다. 상세 원문은 get_standard의 officialText로 조회한다.',
+      inputSchema: {
+        query: z.string().min(1).max(200).describe('원문에서 찾을 키워드'),
+        subject: z.string().max(200).optional().describe('교과명 필터'),
+        gradeBand: z.string().max(200).optional().describe('학년군: 1-2, 3-4, 5-6'),
+        limit: z.number().int().min(1).max(50).optional().describe('최대 결과 수 (기본 20)'),
+      },
+    },
+    async (args) => {
+      const result = searchStandardTexts(store, args);
       if (result.total === 0) result.hint = emptyHint(store);
       return ok(result);
     }
@@ -235,6 +257,32 @@ export function createServer(store) {
           topicCount: c.topicCount,
         })),
       });
+    }
+  );
+
+  server.registerTool(
+    'get_learning_roadmap',
+    {
+      title: '학습 로드맵 요약',
+      description:
+        '교과·학년군의 성취기준을 영역→모듈 계층으로 집계한 학습 로드맵을 반환한다. 기존 데이터의 집계이며 새로운 순서를 생성하지 않는다.',
+      inputSchema: {
+        subject: z.string().max(200).describe('교과명 (예: 수학)'),
+        gradeBand: z.string().max(200).describe('학년군: 1-2, 3-4, 5-6'),
+        domain: z.string().max(200).optional().describe('영역명 필터 (예: 수와 연산)'),
+      },
+    },
+    async ({ subject, gradeBand, domain }) => {
+      const roadmap = buildRoadmap(store, { subject, gradeBand, domain });
+      if (roadmap.error === 'unknown-subject') {
+        return fail(
+          `교과 ${subject}을(를) 찾을 수 없습니다. 사용 가능한 교과: ${roadmap.validSubjects.join(', ')}`
+        );
+      }
+      if (roadmap.standardCount === 0) {
+        roadmap.hint = '해당 학년군·영역 조합에 성취기준이 없습니다. gradeBand는 1-2/3-4/5-6 형식입니다.';
+      }
+      return ok(roadmap);
     }
   );
 

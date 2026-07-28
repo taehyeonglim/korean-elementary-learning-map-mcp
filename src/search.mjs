@@ -141,3 +141,35 @@ export function searchTopics(store, { query, subject, gradeBand, type, standardC
   }
   return { total: candidates.length, results: candidates.slice(0, cap).map(compactTopic) };
 }
+
+export function makeSnippet(normalizedText, normQuery, radius = 40) {
+  const idx = normalizedText.indexOf(normQuery);
+  if (idx === -1) return null;
+  const start = Math.max(0, idx - radius);
+  const end = Math.min(normalizedText.length, idx + normQuery.length + radius);
+  const prefix = start > 0 ? '…' : '';
+  const suffix = end < normalizedText.length ? '…' : '';
+  return `${prefix}${normalizedText.slice(start, end)}${suffix}`;
+}
+
+export function searchStandardTexts(store, { query, subject, gradeBand, limit = 20 } = {}) {
+  const cap = Math.min(limit, MAX_LIMIT);
+  const normQuery = normalizeText(query);
+  const results = [];
+  for (const standard of store.allStandards) {
+    if (subject && !matchesFilter(subject, standard.subject, standard.subjectKorean)) continue;
+    if (gradeBand && standard.gradeBand !== gradeBand) continue;
+    const text = store.textsByCode.get(standard.code);
+    if (!text) continue;
+    const snippet = makeSnippet(normalizeText(text), normQuery);
+    if (snippet) {
+      results.push({
+        code: standard.code,
+        subjectKorean: standard.subjectKorean,
+        gradeBand: standard.gradeBand,
+        snippet,
+      });
+    }
+  }
+  return { total: results.length, results: results.slice(0, cap) };
+}

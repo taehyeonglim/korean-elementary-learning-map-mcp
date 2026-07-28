@@ -20,17 +20,19 @@ function payloadOf(result) {
   return JSON.parse(result.content[0].text);
 }
 
-test('도구 7종이 등록되어 있다', async () => {
+test('도구 9종이 등록되어 있다', async () => {
   const client = await connect();
   const { tools } = await client.listTools();
   assert.deepEqual(
     tools.map((t) => t.name).sort(),
     [
+      'get_learning_roadmap',
       'get_prerequisites',
       'get_standard',
       'get_topic',
       'list_clusters',
       'list_curricula',
+      'search_standard_text',
       'search_standards',
       'search_topics',
     ]

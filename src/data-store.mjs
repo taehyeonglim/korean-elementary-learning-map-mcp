@@ -39,6 +39,7 @@ export function loadStore(dataDir = defaultDataDir) {
   const { topics } = readVerified(dataDir, manifest, 'topics.json');
   const { dependencies } = readVerified(dataDir, manifest, 'dependencies.json');
   const { clusters } = readVerified(dataDir, manifest, 'clusters.json');
+  const { texts } = readVerified(dataDir, manifest, 'standard-texts.json');
 
   const allStandards = [];
   const standardsByCode = new Map();
@@ -50,6 +51,13 @@ export function loadStore(dataDir = defaultDataDir) {
       standardsByCode.set(standard.code, record);
       standardsByKey.set(standard.key, record);
     }
+  }
+
+  const textsByCode = new Map(texts.map((entry) => [entry.code, entry.text]));
+  if (textsByCode.size !== allStandards.length) {
+    throw new Error(
+      `원문 수(${textsByCode.size})가 성취기준 수(${allStandards.length})와 다릅니다 — pipeline/verify-texts.mjs를 실행하세요.`
+    );
   }
 
   const topicsById = new Map(topics.map((topic) => [topic.id, topic]));
@@ -81,6 +89,7 @@ export function loadStore(dataDir = defaultDataDir) {
     allStandards,
     standardsByCode,
     standardsByKey,
+    textsByCode,
     topicsById,
     clustersById,
     topicsByStandardKey,

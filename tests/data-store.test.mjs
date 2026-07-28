@@ -50,6 +50,7 @@ test('체크섬이 깨진 데이터 디렉터리는 loadStore가 거부한다', 
     'topics.json': JSON.stringify({ topics: [] }),
     'dependencies.json': JSON.stringify({ dependencies: [] }),
     'clusters.json': JSON.stringify({ clusters: [] }),
+    'standard-texts.json': JSON.stringify({ texts: [] }),
   };
   const files = {};
   for (const [name, body] of Object.entries(bodies)) {
