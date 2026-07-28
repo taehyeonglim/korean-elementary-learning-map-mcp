@@ -1,0 +1,137 @@
+{
+  "dataset": "Korean Elementary Learning Map full-depth integrated workstream build",
+  "taxonomyVersion": "kr-full-depth-v0.4",
+  "generatedAt": "2026-07-09T00:00:00+09:00",
+  "locale": "ko-KR",
+  "country": "KR",
+  "status": "integrated-workstream-candidate",
+  "verificationStatus": "public-doc-derived",
+  "counts": {
+    "sources": 17,
+    "curricula": 11,
+    "standards": 620,
+    "topics": 1956,
+    "dependencies": 1894,
+    "clusters": 153,
+    "standardMappings": 1956,
+    "coverageGaps": 43,
+    "workstreams": 9
+  },
+  "targets": {
+    "topicsAtLeast": 1500
+  },
+  "graphPolicy": {
+    "relation": "prerequisite",
+    "acyclic": true,
+    "edgeSelection": "workstream-reviewed-only",
+    "crossSubjectEdges": "none"
+  },
+  "coverageNotes": {
+    "social": {
+      "posture": "Korea-first official Annex 7 inventory; no imported US/UK social-studies defaults.",
+      "standards": 49,
+      "topics": 147
+    },
+    "englishEfl": {
+      "posture": "Korean-learner EFL with listening, speaking, phonics, vocabulary, reading, writing, interaction, media, strategy, and culture task families; not native ELA.",
+      "standards": 40,
+      "topics": 120
+    },
+    "artsAndPhysicalEducation": {
+      "posture": "Direct Annex 11-13 inventories for grades 3-6; grades 1-2 arts and movement remain in integrated subjects rather than synthetic standalone codes.",
+      "standards": 101,
+      "topics": 303
+    },
+    "amendedAnnex15": {
+      "posture": "Current accessible 2026 amendment retained with nine directly located 건강한 생활 standards.",
+      "standards": 9,
+      "topics": 27
+    }
+  },
+  "workstreams": [
+    "arts-pe.json",
+    "english-efl.json",
+    "integrated.json",
+    "korean.json",
+    "math.json",
+    "moral.json",
+    "practical-arts.json",
+    "science.json",
+    "social.json"
+  ],
+  "files": {
+    "clusters.json": {
+      "bytes": 336090,
+      "sha256": "6f98f583fa1f9afa1ae4498e9e49cfa6ebbda845701ba161fdae0daaa1e03fdb"
+    },
+    "clusters.seed.json": {
+      "bytes": 70468,
+      "sha256": "c9664dd578a5492d163dc258cd054d5c8eda501c35ac81844a3f34d1c6c5c1b5"
+    },
+    "curriculum-standards.json": {
+      "bytes": 1913076,
+      "sha256": "aaaebb939c17fcc11a808fef3ae8164823425f74bfe8092a4a66941cb8c33335"
+    },
+    "curriculum-standards.seed.json": {
+      "bytes": 1085753,
+      "sha256": "c82f717d4f86b62e1f248f772591786be83e0d0dd8d2c18f5c733890c418db55"
+    },
+    "dependencies.json": {
+      "bytes": 762739,
+      "sha256": "e09a6137bb70edf2a0b0928c05a4bd3f102c80845846ff13b10767ef4ceafe2c"
+    },
+    "dependencies.seed.json": {
+      "bytes": 127512,
+      "sha256": "8a25e60bae09954d457f932dd152afc5e7541a261a280ceb4bbf13d3bbe85884"
+    },
+    "topics.json": {
+      "bytes": 5387054,
+      "sha256": "80aa059ed305ce4cbeb0df45436c0b204a42cd208204c1cc1e5332c70c4bf5f3"
+    },
+    "topics.seed.json": {
+      "bytes": 365755,
+      "sha256": "0c982e39e36f7fa02945eab21a981043c61fef1765bfba9274bb55988e53043f"
+    },
+    "workstreams/arts-pe.json": {
+      "bytes": 1210650,
+      "sha256": "2b87c874e5ebce69820a66459fc2117a015567a7d5d00b47fe1f93218bb553be"
+    },
+    "workstreams/english-efl.json": {
+      "bytes": 450549,
+      "sha256": "98972ddc5859a93dfdac045c7970f708082537387ffa5e2396b4e2f9582517ca"
+    },
+    "workstreams/integrated.json": {
+      "bytes": 670046,
+      "sha256": "71cbf7dcb8bd9099f3527d498810713a86ebebd78653622ae09eb56059bde2b6"
+    },
+    "workstreams/korean.json": {
+      "bytes": 1413436,
+      "sha256": "41bb284c1e2c86e076113306f8d848eb74f568cf6815b9ea2e8d374b3d8ba814"
+    },
+    "workstreams/math.json": {
+      "bytes": 1321687,
+      "sha256": "7cf8393c439e676293e804eb4fd114c9b77298eb4ac4dea54c10b6b84a835694"
+    },
+    "workstreams/moral.json": {
+      "bytes": 487356,
+      "sha256": "118b1688e11ee9864f35793f5541e58c1f90cf0854bed6e7e5360b525be6abfa"
+    },
+    "workstreams/practical-arts.json": {
+      "bytes": 265661,
+      "sha256": "f000b84919b73f799bcdbec973986d373ffc1823002317ea5ce67c2738158b1a"
+    },
+    "workstreams/science.json": {
+      "bytes": 1284608,
+      "sha256": "7f3032eec37b30801d45630751616d748163c2041145eb9ea816e9fa4c94f210"
+    },
+    "workstreams/social.json": {
+      "bytes": 623771,
+      "sha256": "2025dcc017bfacf710d6911d2f957baaeab2b225863b8acced6fcb5aa0698734"
+    }
+  },
+  "sourcePosture": {
+    "recordSchema": "All integrated source records use id, name, url, accessDate, usage, and sourceType; stale portal aliases and dead notice URLs are excluded.",
+    "verification": "Official-inventory gates bind every curriculum to an exact standard count and direct official PDF source.",
+    "workLevelReuseStatus": "CLEARED: the cited Korean official curriculum documents are state-published public materials openly available from their original sources; see PROVENANCE.md."
+  }
+}
